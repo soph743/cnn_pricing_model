@@ -71,3 +71,10 @@ Create a fast and accessible prediction workflow through the browser
 For questions or collaboration inquiries:
 Sophia Cherkaoui
 📧 [sophia.cherkaoui001@umb.edu]
+
+
+external links
+
+https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator
+
+https://datascience.stackexchange.com/questions/48390/how-do-i-build-an-image-dataset-for-cnn
