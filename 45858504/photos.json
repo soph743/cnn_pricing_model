@@ -1,0 +1,401 @@
+{
+  "data": {
+    "merlin": {
+      "__typename": "MerlinQuery",
+      "pdpPhotoTour": {
+        "__typename": "MerlinPdpPhotoTourResponse",
+        "roomsOverviewTitle": "Property overview",
+        "images": [
+          {
+            "__typename": "MerlinImage",
+            "id": "1082222689",
+            "baseUrl": "https://a0.muscache.com/im/pictures/df2f0dc0-75c1-4c96-865f-840403b0e598.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AdLX2wP1yOfHrxc8evz9/QHDx8zY1tHm4ctVXnz6698Bn5eNwbSjIywiP09tBPLu7Fwc7XIRO2QAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Living room image 1",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1082222622",
+            "baseUrl": "https://a0.muscache.com/im/pictures/78d6cc7e-7590-42cc-a55e-4a0554925295.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Ab/Gz9Pq7jocDvbz8xYYGAGssrcNFRIH/vrl394YExIBeXpyOVtm3tXPHffwIictTBAXC32EdukAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Bedroom image 1",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1082222523",
+            "baseUrl": "https://a0.muscache.com/im/pictures/98b31bb5-7812-4566-881b-9be4199455ba.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Abm7vfTy9AAEBBkYEvf2+wHLysXi6PQPEAwYEAnz9fcBnp6f+vvxCfz5AgEGz9XaaCUZ21HP2g8AAAAASUVORK5CYII=",
+            "accessibilityLabel": "Bedroom image 2",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1082222993",
+            "baseUrl": "https://a0.muscache.com/im/pictures/cd8b77ae-8ee4-4fae-b16e-c3f4b58dbcb0.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Aa62uQgBAQYFAv4BBOLt9gGzracTGCAEAvzt+P79/gUBr52OHCgy4uXi9fr65Ozt78wY1hwv0nYAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Bedroom image 3",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1082222533",
+            "baseUrl": "https://a0.muscache.com/im/pictures/8a23be7e-d10c-46e0-943d-5e8b8558dd45.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AbKurBISEAkMD/r18/b3+QG1sKoIDxbf19HX9vwI8/MBqJqPERQYBQ8VAPz3y8nKQKcYMpNnHcMAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Kitchenette image 1",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1082222552",
+            "baseUrl": "https://a0.muscache.com/im/pictures/f3abd869-5cfb-4f99-99c7-c31e70742a0a.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AbiqnhcfKAwUGNnp8t7LxQGMjIjd8PNWQkL8BAzFyc0BjIF1PTIp0eX5FBQWHCMoL6YVyyYWfCoAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Kitchenette image 2",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1082222670",
+            "baseUrl": "https://a0.muscache.com/im/pictures/94f249a9-f48f-44af-a1a9-984b3e1e9b98.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AeDi5QMKBv7+AOPJuCc9UAGzm4YXIir+AwYFCw/4+PwBpaOjBQYG+/LoBQsGz9bfCGMVhs6TghEAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Kitchenette image 3",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1082222572",
+            "baseUrl": "https://a0.muscache.com/im/pictures/07392068-766a-4341-87d0-844269cb0ca8.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Ac7T2PDt7uTk3xELCu3s7gGRoqRCNDL18vLY0c3f4eQB19jZ/fv5CAgHmpaX5ebn+9gfVz5enp0AAAAASUVORK5CYII=",
+            "accessibilityLabel": "Full bathroom image 1",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1082222644",
+            "baseUrl": "https://a0.muscache.com/im/pictures/236f6381-4584-4349-a20a-a4effbbb922f.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AcK6thAXHenu9A0PC9zl4gG5s60GCg/m/gYF8Ovr7PEBsqaV7vQBHiov9/b7AP0BTngZBqB0aXEAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Full bathroom image 2",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1082222651",
+            "baseUrl": "https://a0.muscache.com/im/pictures/c0b322ab-c96b-4e84-bc5a-043df4022417.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AfHy9N/b1sjFwzY3ORshJgH19vfl6OuuqJ4sKCkwNj4B3N3ezsvKv725LS4uP0VNq/wZ+yXHjn4AAAAASUVORK5CYII=",
+            "accessibilityLabel": "Full bathroom image 3",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1082222626",
+            "baseUrl": "https://a0.muscache.com/im/pictures/443b4e8c-93a0-4386-ad60-52cbf8d3349f.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Aay0tyEUDQYGB9nf48nExQGAl59UNijz9ffo7PHAwcMBqbm+DP765ObtEhEP/f3/W6Abs2Sh27YAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Laundry area image 1",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          }
+        ],
+        "roomTourLayoutInfos": [
+          {
+            "__typename": "MerlinRoomTourLayoutInfo",
+            "roomTourItems": [
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Living room",
+                "highlights": null,
+                "imageIds": [
+                  "1082222689"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1082222689"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Bedroom",
+                "highlights": [
+                  {
+                    "__typename": "MerlinBasicListItem",
+                    "anchor": null,
+                    "icon": null,
+                    "image": null,
+                    "subtitle": null,
+                    "title": "King bed"
+                  }
+                ],
+                "imageIds": [
+                  "1082222622",
+                  "1082222523",
+                  "1082222993"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1082222622"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1082222523",
+                      "rightLandscapeId": "1082222993"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Kitchenette",
+                "highlights": null,
+                "imageIds": [
+                  "1082222533",
+                  "1082222552",
+                  "1082222670"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1082222533"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1082222552",
+                      "rightLandscapeId": "1082222670"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Full bathroom",
+                "highlights": null,
+                "imageIds": [
+                  "1082222572",
+                  "1082222644",
+                  "1082222651"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1082222572"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1082222644",
+                      "rightLandscapeId": "1082222651"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Laundry area",
+                "highlights": null,
+                "imageIds": [
+                  "1082222626"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1082222626"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "gridImageLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.gridImage",
+          "section": "photoTour",
+          "component": "gridImage",
+          "experiments": null
+        },
+        "carouselImageNavigationLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.carouselImageNavigation",
+          "section": "photoTour",
+          "component": "carouselImageNavigation",
+          "experiments": null
+        },
+        "saveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Save",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.save",
+            "section": "photoTour",
+            "component": "save",
+            "experiments": null
+          }
+        },
+        "unsaveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Saved",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.unsave",
+            "section": "photoTour",
+            "component": "unsave",
+            "experiments": null
+          }
+        },
+        "shareButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Share",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.share",
+            "section": "photoTour",
+            "component": "share",
+            "experiments": null
+          }
+        },
+        "closeButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Close",
+          "anchor": null,
+          "icon": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "component": "close",
+            "section": "photoTour",
+            "loggingId": "pdp.photoTour.close"
+          }
+        },
+        "seePhotosButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Show all photos",
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.seePhotos",
+            "section": "photoTour",
+            "component": "seePhotos",
+            "experiments": null
+          }
+        }
+      }
+    }
+  },
+  "extensions": {
+    "traceId": "S0fcHp6yPn-mW5WFjnumpg=="
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "data": {
+    "merlin": {
+      "__typename": "MerlinQuery",
+      "pdpPhotoTour": {
+        "__typename": "MerlinPdpPhotoTourResponse",
+        "roomsOverviewTitle": "Property overview",
+        "images": [
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631705",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/2c481e44-fa54-4b82-a779-cbd59b9439c4.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Your Master Bedroom with attached half-bath ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Your Master Bedroom with attached half-bath ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631825",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/93468a4a-e11a-4639-a4b5-2b7cdc9f2f52.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Your Master Bedroom with attached half-bath ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Your Master Bedroom with attached half-bath ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631698",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/bbdbe949-0ae9-41ab-a373-9c3bf91ab2f1.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Your Master Bedroom ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Your Master Bedroom ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631855",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/edc40fc5-9c19-42c1-ba3f-331fcd9d1122.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "En Suite Half Bath attached to Your Master Bedroom ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "En Suite Half Bath attached to Your Master Bedroom ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631862",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/347f1b27-dca2-4a44-981b-9009e0c027d9.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "En Suite Half Bath attached to Your Master Bedroom ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "En Suite Half Bath attached to Your Master Bedroom ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631908",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/128a60e2-5ac7-437a-82e2-05b55d24ba23.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Living Room Entrance ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Living Room Entrance ",
+              "imageType": "COVER",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631922",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/6e5c43cd-8e2d-49b5-bd3d-b099799f0156.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Music Room",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Music Room",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631808",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/b65913cd-9021-47cf-850c-4bd32f63320e.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Living Room ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Living Room ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631797",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/19b496bd-4ec6-475d-bf76-3715d99f6c1f.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Living Room ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Living Room ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631760",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/99481707-6aed-4a42-93f3-555ae85d28ef.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Kitchen and island with barstools ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Kitchen and island with barstools ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631933",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/65897fc6-664b-496f-a7f3-8153ffa47e7a.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Kitchen and island with barstools ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Kitchen and island with barstools ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631888",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/3cf993c1-9dbd-4794-82cf-e6f54273de07.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Kitchen and free Starbucks coffee setup ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Kitchen and free Starbucks coffee setup ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631736",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/03f54be8-01fe-4994-b298-8807b7be9795.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Kitchen. Clutter free! ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Kitchen. Clutter free! ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631776",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/b461cdfb-4325-4bec-8a22-e5e69aa18fad.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Kitchen ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Kitchen ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631749",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/dddb76e7-dcdf-47e9-bae2-6f983c500430.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Main bathroom (shared with host)",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Main bathroom (shared with host)",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631842",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/44995ffc-7d67-4738-a3b3-6ce726dd278b.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Main bath sink. No clutter!",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Main bath sink. No clutter!",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1641631875",
+            "baseUrl": "https://a0.muscache.com/im/pictures/airflow/Hosting-560176/original/23a4268f-19de-45aa-aa86-6d1e67c0f5f1.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "\nMain bath ( shared with host )",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "\nMain bath ( shared with host )",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          }
+        ],
+        "roomTourLayoutInfos": [
+          {
+            "__typename": "MerlinRoomTourLayoutInfo",
+            "roomTourItems": [
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Bedroom",
+                "highlights": [],
+                "imageIds": [
+                  "1641631705",
+                  "1641631825",
+                  "1641631698"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1641631705"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1641631825",
+                      "rightLandscapeId": "1641631698"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Half bathroom",
+                "highlights": null,
+                "imageIds": [
+                  "1641631855",
+                  "1641631862"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1641631855",
+                      "rightLandscapeId": "1641631862"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Shared living room",
+                "highlights": null,
+                "imageIds": [
+                  "1641631908",
+                  "1641631922",
+                  "1641631808",
+                  "1641631797"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1641631908"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1641631922",
+                      "rightLandscapeId": "1641631808"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1641631797"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Shared full kitchen",
+                "highlights": null,
+                "imageIds": [
+                  "1641631760",
+                  "1641631933",
+                  "1641631888",
+                  "1641631736",
+                  "1641631776"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1641631760"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1641631933",
+                      "rightLandscapeId": "1641631888"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1641631736",
+                      "rightLandscapeId": "1641631776"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Shared full bathroom",
+                "highlights": null,
+                "imageIds": [
+                  "1641631749",
+                  "1641631842",
+                  "1641631875"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1641631749"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1641631842",
+                      "rightLandscapeId": "1641631875"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "gridImageLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.gridImage",
+          "section": "photoTour",
+          "component": "gridImage",
+          "experiments": null
+        },
+        "carouselImageNavigationLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.carouselImageNavigation",
+          "section": "photoTour",
+          "component": "carouselImageNavigation",
+          "experiments": null
+        },
+        "saveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Save",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.save",
+            "section": "photoTour",
+            "component": "save",
+            "experiments": null
+          }
+        },
+        "unsaveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Saved",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.unsave",
+            "section": "photoTour",
+            "component": "unsave",
+            "experiments": null
+          }
+        },
+        "shareButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Share",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.share",
+            "section": "photoTour",
+            "component": "share",
+            "experiments": null
+          }
+        },
+        "closeButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Close",
+          "anchor": null,
+          "icon": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "component": "close",
+            "section": "photoTour",
+            "loggingId": "pdp.photoTour.close"
+          }
+        },
+        "seePhotosButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Show all photos",
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.seePhotos",
+            "section": "photoTour",
+            "component": "seePhotos",
+            "experiments": null
+          }
+        }
+      }
+    }
+  },
+  "extensions": {
+    "traceId": "gGfYNq57P3D0ykZE7EnaVg=="
+  }
+}

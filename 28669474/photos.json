@@ -1,0 +1,677 @@
+{
+  "data": {
+    "merlin": {
+      "__typename": "MerlinQuery",
+      "pdpPhotoTour": {
+        "__typename": "MerlinPdpPhotoTourResponse",
+        "roomsOverviewTitle": null,
+        "images": [
+          {
+            "__typename": "MerlinImage",
+            "id": "582543838",
+            "baseUrl": "https://a0.muscache.com/im/pictures/c149d7ee-8c77-4bca-9d5c-4dad66188e9d.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AXmYtN3WyjBCSuvj2vPx8wFncn8DBwnu/QMIDA4I8ugBgomD0xMqBAoPDfz1RerIAZ50WBISEAUGBwMCBPwAAsy/GUafjlgnAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Pool sits right on the bay",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Pool sits right on the bay",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "582543862",
+            "baseUrl": "https://a0.muscache.com/im/pictures/88ace716-0d52-44fe-b333-f9172e6594df.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AVyEyAYFBgICAwIDAv//AQGpsL3++urx8vkSExIABxsBf4F/EAoB+Pj79/n5+gMUAUxaaAH/+QAAAAcGCP8DDxt/GKQO4KrIAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Water Front Condo ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Water Front Condo ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "582543782",
+            "baseUrl": "https://a0.muscache.com/im/pictures/87737388-62d2-4ad8-a306-055c5f51ad52.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AdXj+CEYBtPh9cLS8xMC3QF8iJMXHSAPCgDU4vDv3MABVlleCQkHBAUBBQoLHBUOAX9/ggwMDP39/P7+/P78+X+FHFlD1yw+AAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Boca Ciega Condominium Resort",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Boca Ciega Condominium Resort",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "583950139",
+            "baseUrl": "https://a0.muscache.com/im/pictures/3a4a37fa-a865-4cf2-bbb6-93c79fed7ba7.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AWVxe9Ha4D1JZg8OEQGAlqcIDBUJCQoJCwwBl5mJAf71BP8A/gsWAWVuSvHy6gH+AgAFAQFDTi4NEwj4+fv9+/3Z0RimQmLZ4gAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Great location walking distance to restaurants and bars",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Great location walking distance to restaurants and bars",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "582543563",
+            "baseUrl": "https://a0.muscache.com/im/pictures/c8b9ffe0-88c5-47fd-8192-39a7ffa987ec.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AS00JFBOVt7V2EhOU5qelQFaV0ouMj7Y1tBRU1rNzskBXFZKOUJP9/HYEhkxxse7AS8xMRQSFCMZENjj7+3x71ivG/DkX/QDAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Each condo has a key less entry door lock system",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Each condo has a key less entry door lock system",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "582543882",
+            "baseUrl": "https://a0.muscache.com/im/pictures/df25b8a0-125b-4223-9a97-de8499925576.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZ2vtfIDDfTz7hwcIwL+/gG2sKj2+/wDBggDAgPg5OMBwsbD0Ov2/AYKHAoGFQP6Ud8XNp2Pld4AAAAASUVORK5CYII=",
+            "accessibilityLabel": "Hot tub",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Hot tub",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "582544097",
+            "baseUrl": "https://a0.muscache.com/im/pictures/d71f516d-03c9-41b1-810e-abc9fbb37ed1.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Acbh9vT5/e/2++72+/D2+gGzy9gBBAb18Ovx9fnp9voBZ4yY9fPvFPntHhcY2+rueW4ibylOs0gAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Private fishing pier or dock your boat",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Private fishing pier or dock your boat",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "582545478",
+            "baseUrl": "https://a0.muscache.com/im/pictures/ab922cc8-3d08-48e4-932a-dc5d61d49fb2.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AcfKy/Dz9RgeIPH19Q8KCQGfrbDv9fT96Nzs6+klKzQB0cS25djN4erxDQsHFio5AeLZ0O/j2fX19/T6/BkiKORUJvITSk8RAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Pool and Hot Tub",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Pool and Hot Tub",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "582547555",
+            "baseUrl": "https://a0.muscache.com/im/pictures/8edc63df-b3c1-4ea7-852e-6edbc667d968.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AWZubf8B/+Lg4evp6AGnucIjKy/d2NUYFxUBdIOFJi8x3tnYHBoaAVVdWA8RCebk7S8tKAEzNC/9/wDz8/UODgwJkxz26pVl4QAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "View from the couch",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "View from the couch",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "583987847",
+            "baseUrl": "https://a0.muscache.com/im/pictures/ca4a377b-b8be-4c10-87e6-152ded04364a.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AarE0QgKCwUGBgD///n5+gF8k6AVFRMEBAUAAAD8/f4BRlhlHCcrCwsNAQIB/fv6ATs/Pf4IEScvNBMSEfj3+NP+FkvN3JTvAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Watch as boats cruise by the condo",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Watch as boats cruise by the condo",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "582547660",
+            "baseUrl": "https://a0.muscache.com/im/pictures/b9d86f0f-71ce-42c2-ae4e-4a699467e46b.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAASklEQVQIHWPcfOw6Ays7Ny+3gAAv48JNO1nZWdnZWXi5uRhzKyr+/v//n4Hx359fjAYmJj9//+PlZ/v1/i2jrJIKExAw/Gf4/QMAp5EXLoEyn2gAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Magnificent views ",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Magnificent views ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "583661863",
+            "baseUrl": "https://a0.muscache.com/im/pictures/561eaa01-c241-45cb-a7b0-20f57d8c355e.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AYuKisC8tQT/+CccDwHa292LhX/99ekZEwwB0tLSiouO/PXqAwD8AYWKlsfN0tbU0A0D9QFcXGDLzcrr6ecVFBSE6yNGfrptkwAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Recently added Murphy Bed",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Recently added Murphy Bed",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "582546872",
+            "baseUrl": "https://a0.muscache.com/im/pictures/41a86269-f86f-4cf8-9b21-cd14d3b60947.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AZGEcB4fJBofKtnX0gGZjXgHEhr08PDv6uYBjIRz9wIL+/r67ubeAVRSQxocJEBCSvLw7QE1KyADBQYsLCn39vbCiB0th7DOHQAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Queen size bed",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Queen size bed",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "583661939",
+            "baseUrl": "https://a0.muscache.com/im/pictures/bc0bf5d8-00c1-434c-88e4-836ad01d309d.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AbOxqLexrSkhFf3+/gGzsq/q49c7ODHf4OUBsrOy6eDTQD88yczVAba3t9jQxD88OLbAzgG1tLadmI8LCAb0+f3ifSXE6V/YLQAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Fold up Murphy Bed with table",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Fold up Murphy Bed with table",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "583662048",
+            "baseUrl": "https://a0.muscache.com/im/pictures/1ee56cc0-f3d0-4f36-962e-35e49349ce74.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AW1sacvIxAkE/xMPBwHMzc2GgnxIPCva3+UBxMPAoZ6bJh4Qy9HbAX6Cjefi187KxP0AAwFmaHHHxr7x7ukICQsQdiDu3SHA2gAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Fold up table ",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Fold up table ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "582545540",
+            "baseUrl": "https://a0.muscache.com/im/pictures/3b66370c-88e0-4ec1-983e-d5d5a14db1de.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AY+EbggHBvD0/Pz8+AHV0cnQ0NDy8vD69/MB6ejm5ubj4uHg5uXjAeLf4Nzb1sjJx+3r6AGgmJXT09DQ1dQ6PkHg1S51zGf6SQAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Washer and dryer inside condo",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Washer and dryer inside condo",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "584960475",
+            "baseUrl": "https://a0.muscache.com/im/pictures/883553da-c2b6-4b7b-a0fe-3800a86997cd.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AZ2Wktza1Pr37xMTEQHa1syVkJAQCv8aHiMB1NDGqKmv6+beBAYJAaumocfMzyYmJs7OywGAeXP1+v36+/vNzcp9DyUWE5M9AQAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Pull out couch and love seat",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Pull out couch and love seat",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "584960594",
+            "baseUrl": "https://a0.muscache.com/im/pictures/e9bb83c0-dc79-417f-b578-46364a9015c2.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AXtvWfv7/P38/e/x8gFmW0oUEg7GzNUlHxYBgXpxGhcR6ePc6+7vAZCPjgUDAPbx6uLh4gFMS0QWFxkbHB5GOjRoXx52k/sX0AAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "48 inch HD TV",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "48 inch HD TV",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "584960714",
+            "baseUrl": "https://a0.muscache.com/im/pictures/144e122c-1882-473d-a8bd-4015315e4bf9.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AXNnUBgXFwEBAwMGBwGLfmcABQ308/I1OD4BiXxp7fX+EA4MSlBcAZmYlQYFBMrJyE9UXQFvbWI5PEa7uLhPU1d/fhZMsDD1FAAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Kitchen bar ",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Kitchen bar ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "665222760",
+            "baseUrl": "https://a0.muscache.com/im/pictures/8537d7a7-bd37-4f9a-90ff-992bf77978d8.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AcW8pMa5thAOD/X9AgHJv7D2trMVCArU9foBxr6z5aypGQwOy/D0AbSwqd6uqBIGB+MDAwGipJ7jyboABAb0AQFi1B/ovBvUmAAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Tub style shower ",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Tub style shower ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "583662307",
+            "baseUrl": "https://a0.muscache.com/im/pictures/38110041-7fe6-4f3b-b24d-e3e15f170841.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AaOhp9vd4CkkFPv79QGAfHy1vMAEAv4VGhsBgoF9qaywAQEB9Pb5AZOMfrm9xNDV2wMFBgGJhHYHAvywusbg5OgpkSEAgO8o1QAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Bikes covered in storage area",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Bikes covered in storage area",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "582546453",
+            "baseUrl": "https://a0.muscache.com/im/pictures/b188486d-8754-46fe-9b22-d89154f29a2a.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AZ+ZlvT2+tze3Pr9+gGlo50NDA/R1NX8AwkBQEBHFhgX4+bkEhQaATMyOwkKD/Pz6v/9/AE8NTLq8fkKBwEPDw9gAB4H++v+ugAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Workout area for your use",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Workout area for your use",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "583662603",
+            "baseUrl": "https://a0.muscache.com/im/pictures/e2ec93fe-96ce-4fbb-a1ff-1f98c6472cc3.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AbK5uP0RJuX7B/P7/vv8/QGbrK3vAA76AAL5+/vw9fUBnZ+X/AAG/gIFAggI7OzmyRsbggwZs+EAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Beautiful baloney views",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Beautiful baloney views",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "583987045",
+            "baseUrl": "https://a0.muscache.com/im/pictures/48cd8f88-6224-40f5-83ab-906cfb23e0ad.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AV2H4AD///r6+v7/AfTz8gGJhMQHDAjxBQj08vj29vkBaWyqBAYD6vsB7Ons5ezxATpMl/UFCgcC/ubo7P36/MqLJgPHBM0YAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Sunsets to die for",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Sunsets to die for",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "583662648",
+            "baseUrl": "https://a0.muscache.com/im/pictures/cd313596-5a7f-4c66-ab02-45a7c0610e1b.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AWakyxsNCPj+/+v4/v/+/wHCvrvk1Mr/BQwJAwAsNDYBnaKv5fkP8fL3+/f0Nh/9p7scN4/TYQoAAAAASUVORK5CYII=",
+            "accessibilityLabel": "The white pristine beaches of the Gulf of Mexico ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "The white pristine beaches of the Gulf of Mexico ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "584965541",
+            "baseUrl": "https://a0.muscache.com/im/pictures/7e874ba7-5456-43ea-87dd-589fb240cd47.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//ATByrQsUGQsPCv7//Pr47AFyprrX5Ov86e0IEw30CgkBgam129/e9QDsEgcT5PsNATyEgwUJBAMB8wP98fb6GevpHrYz1reiAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Dolphins jumping in the bay",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Dolphins jumping in the bay",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "585563931",
+            "baseUrl": "https://a0.muscache.com/im/pictures/5b315415-987a-4e5c-bc03-2eda82a0ede1.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//ATBhcBc/TBo6QuDyAOzu/AE6X2gwPT1BRkbJ5u/m6/QBKUIdESItQTtQxOsJ8/X+ASNFEQMDBvgG+v4ADBEBHUCkGMkdcNmXAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Listing image 27",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "585564317",
+            "baseUrl": "https://a0.muscache.com/im/pictures/e3b93199-968f-4847-95b2-1bd8949ad986.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/Acm+vfr5/PAGFv8PFwG2wscF8u4UIyQO+u0BmZCJ/fz9BgYE8u/xAUdPUwb9+AsXGiQQBgEuJhz3/AD7AwQDBQI4nRwx5ekV9wAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Listing image 28",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          }
+        ],
+        "roomTourLayoutInfos": [
+          {
+            "__typename": "MerlinRoomTourLayoutInfo",
+            "roomTourItems": [
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": null,
+                "highlights": null,
+                "imageIds": [
+                  "582543838",
+                  "582543862",
+                  "582543782",
+                  "583950139",
+                  "582543563",
+                  "582543882",
+                  "582544097",
+                  "582545478",
+                  "582547555",
+                  "583987847",
+                  "582547660",
+                  "583661863",
+                  "582546872",
+                  "583661939",
+                  "583662048",
+                  "582545540",
+                  "584960475",
+                  "584960594",
+                  "584960714",
+                  "665222760",
+                  "583662307",
+                  "582546453",
+                  "583662603",
+                  "583987045",
+                  "583662648",
+                  "584965541",
+                  "585563931",
+                  "585564317"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "582543838"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "582543862",
+                      "rightLandscapeId": "582543782"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_PORTRAIT_TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinOnePortraitTwoLandscapesMediaBlock",
+                      "lowerLandscapeId": "582543882",
+                      "portraitId": "583950139",
+                      "upperLandscapeId": "582543563"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "HORIZONTAL_FLIP",
+                    "format": "ONE_PORTRAIT_TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinOnePortraitTwoLandscapesMediaBlock",
+                      "lowerLandscapeId": "582545478",
+                      "portraitId": "582547555",
+                      "upperLandscapeId": "582544097"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "583987847"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_PORTRAITS",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoPortraitsMediaBlock",
+                      "leftPortraitId": "582547660",
+                      "rightPortraitId": "583661863"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "THREE_PORTRAITS_TALL",
+                    "mediaBlock": {
+                      "__typename": "MerlinThreePortraitsTallMediaBlock",
+                      "leftPortraitId": "582546872",
+                      "lowerRightPortraitId": "583662048",
+                      "upperRightPortraitId": "583661939"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "THREE_PORTRAITS_TALL",
+                    "mediaBlock": {
+                      "__typename": "MerlinThreePortraitsTallMediaBlock",
+                      "leftPortraitId": "582545540",
+                      "lowerRightPortraitId": "584960594",
+                      "upperRightPortraitId": "584960475"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "THREE_PORTRAITS_TALL",
+                    "mediaBlock": {
+                      "__typename": "MerlinThreePortraitsTallMediaBlock",
+                      "leftPortraitId": "584960714",
+                      "lowerRightPortraitId": "583662307",
+                      "upperRightPortraitId": "665222760"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_PORTRAIT_TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinOnePortraitTwoLandscapesMediaBlock",
+                      "lowerLandscapeId": "583987045",
+                      "portraitId": "582546453",
+                      "upperLandscapeId": "583662603"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "583662648"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "HORIZONTAL_FLIP",
+                    "format": "ONE_PORTRAIT_TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinOnePortraitTwoLandscapesMediaBlock",
+                      "lowerLandscapeId": "585563931",
+                      "portraitId": "585564317",
+                      "upperLandscapeId": "584965541"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "gridImageLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.gridImage",
+          "section": "photoTour",
+          "component": "gridImage",
+          "experiments": null
+        },
+        "carouselImageNavigationLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.carouselImageNavigation",
+          "section": "photoTour",
+          "component": "carouselImageNavigation",
+          "experiments": null
+        },
+        "saveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Save",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.save",
+            "section": "photoTour",
+            "component": "save",
+            "experiments": null
+          }
+        },
+        "unsaveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Saved",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.unsave",
+            "section": "photoTour",
+            "component": "unsave",
+            "experiments": null
+          }
+        },
+        "shareButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Share",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.share",
+            "section": "photoTour",
+            "component": "share",
+            "experiments": null
+          }
+        },
+        "closeButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Close",
+          "anchor": null,
+          "icon": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "component": "close",
+            "section": "photoTour",
+            "loggingId": "pdp.photoTour.close"
+          }
+        },
+        "seePhotosButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Show all photos",
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.seePhotos",
+            "section": "photoTour",
+            "component": "seePhotos",
+            "experiments": null
+          }
+        }
+      }
+    }
+  },
+  "extensions": {
+    "traceId": "RndCzl1Zm9SEIP_erTHo0g=="
+  }
+}

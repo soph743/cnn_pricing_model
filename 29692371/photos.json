@@ -1,0 +1,806 @@
+{
+  "data": {
+    "merlin": {
+      "__typename": "MerlinQuery",
+      "pdpPhotoTour": {
+        "__typename": "MerlinPdpPhotoTourResponse",
+        "roomsOverviewTitle": "Property overview",
+        "images": [
+          {
+            "__typename": "MerlinImage",
+            "id": "1643356003",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/93ffbc99-ccd8-464f-8a83-af05d08bbf42.png",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Your private bedroom.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Your private bedroom.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702467989",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/6a08294e-05c5-4b2b-9e5e-8cb9f2ff2786.png",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Your private bedroom.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Your private bedroom.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466954",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/19c66e87-0e48-4bf9-bb16-e8e8e5dc80be.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared balcony.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared balcony.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466469",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/dbaf6869-877f-449e-91ca-ff61950b1afe.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared balcony.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared balcony.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466618",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/7eeb3c79-f529-4a8c-83ef-a8dd9b4f7dee.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared living room w/ foosball table & games.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared living room w/ foosball table & games.",
+              "imageType": "COVER",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466408",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/8e823637-ad80-465c-96ab-6a4d171f183f.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared living & dining room.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared living & dining room.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466662",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/eed0a4fd-3185-4c9c-83a9-c0bd350ff9c1.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared living room w/ beach equipment and towels available for guest usage.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared living room w/ beach equipment and towels available for guest usage.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466726",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/a7deb0b3-c6b3-4dd1-8ac3-978b92b19a6d.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared dartboard.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared dartboard.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466430",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/f996a31c-1c5d-4eab-8986-9fe895b5d81c.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared kitchen.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared kitchen.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466822",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/2b063215-6e05-43d7-aa5a-c79661579691.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared kitchen.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared kitchen.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466866",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/9202fcae-bad2-4849-b242-e3ae0b8f86df.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared kitchen. Complimentary coffee, tea, or cocoa. Complimentary cereal & milk or oatmeal for breakfast. A variety of snacks are also available for purchase for $1-2, as well as canned soda & bottled water for $1 each, cash only.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared kitchen. Complimentary coffee, tea, or cocoa. Complimentary cereal & milk or oatmeal for breakfast. A variety of snacks are also available for purchase for $1-2, as well as canned soda & bottled water for $1 each, cash only.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466893",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/ccc73dfb-9505-4774-80a8-e2b67403fa56.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared bathroom.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared bathroom.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466908",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/e2e7f084-36d6-4568-ac57-4c603909c0ea.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared bathroom.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared bathroom.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466756",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/6c656e6d-e6ce-41d3-85b7-38149ff1c2d9.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared dining room.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared dining room.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466776",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/e9a6ec0d-b3a6-4587-a6c5-45ca6914cbdb.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared living & dining room.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared living & dining room.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702466807",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/471ad753-afcc-421b-bcfe-7fae29bea629.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared living & dining room.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared living & dining room.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702467143",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/a29d685a-aebb-4cc1-996f-3583f100693b.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Hammock.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Hammock.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702467159",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/964159ee-a098-4d17-b12d-dabc6c747643.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "The house.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "The house.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702467018",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/5b578701-d3de-4d86-a685-79d2de50e494.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared patio w/ Giant Jenga.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared patio w/ Giant Jenga.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702467072",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/f14d5005-49e3-4639-b797-d041c07802c1.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared patio.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared patio.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702467098",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/cf07e372-0fd3-441d-b006-c35f8ca8c1ce.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared patio w/ Giant Jenga & propane BBQ grill.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared patio w/ Giant Jenga & propane BBQ grill.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702467131",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/e125d48f-bb4e-4f80-ab50-f9d83a879caa.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Shared patio.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Shared patio.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702467183",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/9ab21da6-6d64-46cd-b217-c6e4d633bf2c.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Nearby attraction Archibald Beach Park, Madeira Beach",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Nearby attraction Archibald Beach Park, Madeira Beach",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702467205",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/fb8540a2-7227-49b0-b88f-d54c69dae3e2.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Nearby attraction St Pete Pier.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Nearby attraction St Pete Pier.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702467260",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/bd05751d-233e-4996-8e29-7da5da773c5e.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Nearby attraction Salvador Dali Museum.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Nearby attraction Salvador Dali Museum.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702467216",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/c5582034-0054-429e-9048-6c2db0f24384.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Nearby attraction Sunken Gardens.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Nearby attraction Sunken Gardens.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1702467369",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-29692371/original/742fa958-8660-45df-a0bc-9a81b7447d88.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Nearby attraction John's Pass Boardwalk.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Nearby attraction John's Pass Boardwalk.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1872673706",
+            "baseUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Mjk2OTIzNzE%3D/original/d545a70b-8d5f-4cf8-b92e-13e763834f57.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Nearby attraction Chihuly Collection.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Nearby attraction Chihuly Collection.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          }
+        ],
+        "roomTourLayoutInfos": [
+          {
+            "__typename": "MerlinRoomTourLayoutInfo",
+            "roomTourItems": [
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Bedroom",
+                "highlights": [
+                  {
+                    "__typename": "MerlinBasicListItem",
+                    "anchor": null,
+                    "icon": null,
+                    "image": null,
+                    "subtitle": null,
+                    "title": "Queen bed"
+                  }
+                ],
+                "imageIds": [
+                  "1643356003",
+                  "1702467989"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1643356003",
+                      "rightLandscapeId": "1702467989"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Balcony",
+                "highlights": null,
+                "imageIds": [
+                  "1702466954",
+                  "1702466469"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1702466954",
+                      "rightLandscapeId": "1702466469"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Shared living room",
+                "highlights": null,
+                "imageIds": [
+                  "1702466618",
+                  "1702466408",
+                  "1702466662",
+                  "1702466726"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1702466618"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1702466408",
+                      "rightLandscapeId": "1702466662"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1702466726"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Shared full kitchen",
+                "highlights": null,
+                "imageIds": [
+                  "1702466430",
+                  "1702466822",
+                  "1702466866"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1702466430"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1702466822",
+                      "rightLandscapeId": "1702466866"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Shared full bathroom",
+                "highlights": null,
+                "imageIds": [
+                  "1702466893",
+                  "1702466908"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1702466893",
+                      "rightLandscapeId": "1702466908"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Shared dining area",
+                "highlights": null,
+                "imageIds": [
+                  "1702466756",
+                  "1702466776",
+                  "1702466807"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1702466756"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1702466776",
+                      "rightLandscapeId": "1702466807"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Shared exterior",
+                "highlights": null,
+                "imageIds": [
+                  "1702467143",
+                  "1702467159"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1702467143",
+                      "rightLandscapeId": "1702467159"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Shared patio",
+                "highlights": null,
+                "imageIds": [
+                  "1702467018",
+                  "1702467072",
+                  "1702467098",
+                  "1702467131"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1702467018"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1702467072",
+                      "rightLandscapeId": "1702467098"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1702467131"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Additional photos",
+                "highlights": null,
+                "imageIds": [
+                  "1702467183",
+                  "1702467205",
+                  "1702467260",
+                  "1702467216",
+                  "1702467369",
+                  "1872673706"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1702467183"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1702467205",
+                      "rightLandscapeId": "1702467260"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1702467216"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1702467369",
+                      "rightLandscapeId": "1872673706"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "gridImageLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.gridImage",
+          "section": "photoTour",
+          "component": "gridImage",
+          "experiments": null
+        },
+        "carouselImageNavigationLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.carouselImageNavigation",
+          "section": "photoTour",
+          "component": "carouselImageNavigation",
+          "experiments": null
+        },
+        "saveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Save",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.save",
+            "section": "photoTour",
+            "component": "save",
+            "experiments": null
+          }
+        },
+        "unsaveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Saved",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.unsave",
+            "section": "photoTour",
+            "component": "unsave",
+            "experiments": null
+          }
+        },
+        "shareButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Share",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.share",
+            "section": "photoTour",
+            "component": "share",
+            "experiments": null
+          }
+        },
+        "closeButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Close",
+          "anchor": null,
+          "icon": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "component": "close",
+            "section": "photoTour",
+            "loggingId": "pdp.photoTour.close"
+          }
+        },
+        "seePhotosButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Show all photos",
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.seePhotos",
+            "section": "photoTour",
+            "component": "seePhotos",
+            "experiments": null
+          }
+        }
+      }
+    }
+  },
+  "extensions": {
+    "traceId": "9kc3CIqkJ-wbi9t8FrCa5Q=="
+  }
+}

@@ -1,0 +1,1140 @@
+{
+  "data": {
+    "merlin": {
+      "__typename": "MerlinQuery",
+      "pdpPhotoTour": {
+        "__typename": "MerlinPdpPhotoTourResponse",
+        "roomsOverviewTitle": "Property overview",
+        "images": [
+          {
+            "__typename": "MerlinImage",
+            "id": "494568973",
+            "baseUrl": "https://a0.muscache.com/im/pictures/e788c8ee-37df-4d07-870b-7c488d9e987e.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZmbng8RFhkXEfXw7NzVzAGilYbe5e8YFxkQEgzm3M0BdGtiFxEM8+rZBQHv4unzDSoW7VO69ScAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Cozy living room includes a small desk & chair,",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Cozy living room includes a small desk & chair,",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "494568969",
+            "baseUrl": "https://a0.muscache.com/im/pictures/35c0b76f-688a-4666-b62e-afc7e6bedc8c.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Aa+rpQIB//P3/Pf39ezu8QGNkJEUAuXz7+YHBQjq+A4BloN15tHSGysU2eDq8fwLv2ccGs3AxkEAAAAASUVORK5CYII=",
+            "accessibilityLabel": " large sofa with ottoman and",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": " large sofa with ottoman and",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "494568974",
+            "baseUrl": "https://a0.muscache.com/im/pictures/c63af7ae-ef9a-4023-90f4-1270ffb5add8.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZGWmwcC/hYZHf79+/z6+AGkoJ8C9OPP2uQRFx4YICgBjIN/+e/l9OTmGBoUDyIiWYwXnpNJ7b4AAAAASUVORK5CYII=",
+            "accessibilityLabel": "flat screen TV with cable.  Also includes an Apple TV for streaming your favorite shows.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "flat screen TV with cable.  Also includes an Apple TV for streaming your favorite shows.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "494568976",
+            "baseUrl": "https://a0.muscache.com/im/pictures/517a4dda-d3c0-4d6e-bb77-ded171c106b0.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AcTDwPLx8O7w9+z0+woD/gHFtKbW3e3y9Pbx/wUcEggBuLKuAwIC+/r5yMXCDQwKGk4dHo4gZqgAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Bedroom includes super comfy queen size bed,",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Bedroom includes super comfy queen size bed,",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "494568977",
+            "baseUrl": "https://a0.muscache.com/im/pictures/11bd4a83-f69c-4c98-8e28-0b790d7d0f60.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZ+iqgMIDhUL/QEA/+Lf3gGzusPu594B//8aEAbk5OcBjoyPAvrzBgUD///+9vX2NDYaCFp9HGwAAAAASUVORK5CYII=",
+            "accessibilityLabel": "tallboy dresser,",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "tallboy dresser,",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "494568978",
+            "baseUrl": "https://a0.muscache.com/im/pictures/70ebe209-f2a4-4a4f-aee6-6af280cd4373.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWNsb6yXU1TlFBDn4ub59/k5Y2tDtZS0nJya7ptnj358/crYWF0hyM0uLS3Lzcv769dvAJDFEfBvcmAqAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "large mirror and",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "large mirror and",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "494568979",
+            "baseUrl": "https://a0.muscache.com/im/pictures/304a4985-d95f-4167-988c-3ffcc84b50a0.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AairsRMI/fwBAvn7ANrd4gGyra4M9+Ph8gEZHR7W3ugBsaijCAL7/QMI/P8D1NzlZ6UZ/8eUoB0AAAAASUVORK5CYII=",
+            "accessibilityLabel": "closet.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "closet.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "307376326",
+            "baseUrl": "https://a0.muscache.com/im/pictures/a91b8fa2-5296-4131-99c3-76f6fa0b9b2f.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AYR/dCAaFx8cHOfs7ebp6wFaWVESCwsICQfZ2t77/PwBgX51BgYI9vn9CQYD+Pn5AX5/dxISFgUGB/v7+/b39m3ZHWo9ddmvAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Kitchenette includes fridge, microwave, convection oven, coffee maker, kettle, toaster, slow cooker & single hot plate.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Kitchenette includes fridge, microwave, convection oven, coffee maker, kettle, toaster, slow cooker & single hot plate.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "304878736",
+            "baseUrl": "https://a0.muscache.com/im/pictures/963dfc3c-e277-44b7-8c7a-6edcdba9f053.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASElEQVQIHWNMToyUVlBm+vGS+cdbMSU9xqT4EHEpWW52Jl4ORm5hWUYvF0uGHz+VjS3VtHWYGZkYHc20OLh5xeUU9QyNmVk5APwIDPxCJj7IAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Small kitchen table with two chairs.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Small kitchen table with two chairs.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "494568975",
+            "baseUrl": "https://a0.muscache.com/im/pictures/d66a22ea-a9b5-4e95-9619-98499845caad.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Ab3CyvTv5/Hl0fn79yMcGwGutLr/79Tx6t7m8P337u4BrpFZ5ujw/QMRCBMm5OPiQgkgkWDq7M8AAAAASUVORK5CYII=",
+            "accessibilityLabel": "Cabinet and shelving unit for additional storage space",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Cabinet and shelving unit for additional storage space",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "494568981",
+            "baseUrl": "https://a0.muscache.com/im/pictures/30aa176f-df4a-42c0-8712-317960101233.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Acu2pvEADAoKCwYHCAgIBwHDqpenwOobGAsxJRMIDAwBu6GNz9/uBwcKHhkL5eXqZNgQIuLZ32AAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Bathroom includes a spacious walk-in shower,",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Bathroom includes a spacious walk-in shower,",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "494568982",
+            "baseUrl": "https://a0.muscache.com/im/pictures/0a9410b0-bfe3-4715-82f7-8da46b9d354d.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AdDLxQICAwMCAeHr9yEUCAG3raEFBgf9/wXZ6f0wHAgBjX1r+/v7FBUb1d/tPDUt0t8UhSBS5ywAAAAASUVORK5CYII=",
+            "accessibilityLabel": "vanity with vessel sink and",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "vanity with vessel sink and",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "304531765",
+            "baseUrl": "https://a0.muscache.com/im/pictures/40f24cce-b596-4f5e-b2a6-814500df43d9.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AbSrmP////j4+N3g6s7O1QGqnYfs4doCDBjj5Ore3+cBhXtp+fn6DA0M5+oF6u32AZaOe/n4+cHH0joyKv/9/YZFKngX5H6aAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "decorated with coastal decor.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "decorated with coastal decor.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "494568987",
+            "baseUrl": "https://a0.muscache.com/im/pictures/2d8a10d5-3848-406b-8229-7ce38b054e0b.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOElEQVQIHWNMy3VlZxFX1TS3t/fgYOdmrK7I4GAXlVOQ09IxYGLjZZzT1aWvpcYjJMDMwfHl6y8A05wKbAEpQ60AAAAASUVORK5CYII=",
+            "accessibilityLabel": "large propane grill.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "large propane grill.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "494568986",
+            "baseUrl": "https://a0.muscache.com/im/pictures/ca41d287-a69f-4532-a430-1b7aff8034a6.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Aa+3sNTYuw4FFf//Cf3/BwHP0c/MybPg2+HZ3uAB+vsB3dXR69rX5uTl0d/k7Ojm5Vchr9cQZBUAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Private patio area for guests with table, chair & umbrella set and ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Private patio area for guests with table, chair & umbrella set and ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "136871857",
+            "baseUrl": "https://a0.muscache.com/im/pictures/28910d32-dcec-40d3-8034-90e100d3f82c.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/ATUfEg4PDwQSIgF1VEMlQFHj2M8BjX91Hy477uLWAamnpAYGB9jMwAFlX1guLCry7ON6zhKXIXwyZQAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Laundry room with stackable washer & dryer is available for guests staying a week or longer.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Laundry room with stackable washer & dryer is available for guests staying a week or longer.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "494568984",
+            "baseUrl": "https://a0.muscache.com/im/pictures/9bab1cc6-1dac-4549-b405-aad5f1a06b43.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYyJfQwMB/z8/fb2APX7BAGgoJL9AAHz/gwOAvrs4u4BhrbH6/X58vj7FBEO6eDlccIbv1fpcoQAAAAASUVORK5CYII=",
+            "accessibilityLabel": "The Cabana is a separate building that overlooks the covered pool area.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "The Cabana is a separate building that overlooks the covered pool area.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "314085445",
+            "baseUrl": "https://a0.muscache.com/im/pictures/a0167baf-b877-4727-8af2-3b3bf5c6475d.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AZOinop+fAUB/xklEQF9gGv6+vXl4upBQj4BYllQ6PTqAQAGNzc2AaSKegwXIOz/Bvbw6AGbeF/7/fz/BATr8PLD3h/UUvNQogAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Property located in Historic Old Northeast neighborhood and",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Property located in Historic Old Northeast neighborhood and",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "495085531",
+            "baseUrl": "https://a0.muscache.com/im/pictures/55504538-5f08-42d5-a6f2-c8b3fb7d506d.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AT86LU1QXdLRxu7u6/Dy+gFVTkA9RVbWzsX6/v3e3N8BW1dIGyIgBwgH9fL0AQAIAU9GPx4cIv3/AgkIBeXl5At0Hab1y1efAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "only a few blocks from North Shore Park which includes",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "only a few blocks from North Shore Park which includes",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "313975149",
+            "baseUrl": "https://a0.muscache.com/im/pictures/f5e2483b-93d2-4e20-8b0c-5f549ffb7d51.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AWmaxgcDBAoEAP3x4qOGbAGcrLr79vP07+rBvLTc2NgBs66t3ODn4+fr1NXU29nXAUNPYyEZENXb5fv17OPi26stKH3MUVzPAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "a beach on the shores of Tampa Bay",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "a beach on the shores of Tampa Bay",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "495086162",
+            "baseUrl": "https://a0.muscache.com/im/pictures/7d54ef98-3e7a-46e9-bd5b-aebc42901140.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AbG2uhUHAen6A+n4Af/6+AGTl5oD//z///7q9Prr7O0Bi4aAAP/+AQEAAAAA/v7/AYF7dAH//wEBAf79/f7/AKnjJEgrvG68AAAAAElFTkSuQmCC",
+            "accessibilityLabel": "with several volleyball nets,",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "with several volleyball nets,",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "314088035",
+            "baseUrl": "https://a0.muscache.com/im/pictures/394d3198-f231-4d0e-b220-e46d7f87148b.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//Ad3e3hwbHAAAAP39/vf39QFdZVUkIigODRgDA/zd3NkBaXhFAwMCBgQT9/X6Av7/AXKJSfv9/fz9/v//AAEBAoYxHXrDy+n6AAAAAElFTkSuQmCC",
+            "accessibilityLabel": "public tennis courts and",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "public tennis courts and",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "495191931",
+            "baseUrl": "https://a0.muscache.com/im/pictures/97203511-487b-4b72-a5c7-01baf1ab8a88.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AWd5hBgjLAgGBPv/B/f6/QFgdoIGCQoJCwr0/AIDBwcBYpWaDAoPDQsIAPz+CAQEAWWWmwsHAvHt8ggRFwkD/ZDDE/apuMiAAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "is the home to the North Shore Aquatic Center.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "is the home to the North Shore Aquatic Center.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "313964909",
+            "baseUrl": "https://a0.muscache.com/im/pictures/f64f0e97-f11c-4740-aea9-648e1db70dcd.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASUlEQVQIHWO0sTV28/T38QyQ5Gfn4mBhtDTVFxQWVFPXsLBwZGFhZQyNcuDjF1NV0P/976OYsCxjQUWitpIxBxvHp68fTl7eBQCKMhCQ5lX+ewAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "St. Pete has an extensive recreation trail system so if going for a leisurely stroll, jog or bike ride is your idea of fun ...... ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "St. Pete has an extensive recreation trail system so if going for a leisurely stroll, jog or bike ride is your idea of fun ...... ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "495085621",
+            "baseUrl": "https://a0.muscache.com/im/pictures/57d42aaf-f3b9-4e45-aacd-92d978030e84.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AZmgpCYgIAsJBOLf3yAhHQFehGsWAOkJBAj38vwQChEBfJCKDAH++fjvBgUHDgsUAWBnSQEB/g4KBgYDAv3/A7wwFMc7ss1IAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "the North Bay Trail in North Shore Park is very close and",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "the North Bay Trail in North Shore Park is very close and",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "314081679",
+            "baseUrl": "https://a0.muscache.com/im/pictures/710244b2-dcfa-4a7a-b66d-01c2dfd8264b.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AaKdjwsICQwLCgsPEQECBgGTlZL07+T6+/v5BxEC/vwBd3t/5gANGAHzLiAZ+fz/AXBtbRIUFPPv7SUjIgsJCfmAGGcnTUICAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "a bike share hub is conveniently located there,",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "a bike share hub is conveniently located there,",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "495255120",
+            "baseUrl": "https://a0.muscache.com/im/pictures/bf1aac8d-0f71-452a-bb6c-48daea346bef.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AWmaxgcDBAoEAP3x4qOGbAGcrLr79vP07+rBvLTc2NgBs66t3ODn4+fr1NXU29nXAUNPYyEZENXb5fv17OPi26stKH3MUVzPAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "The trail connects several waterfront parks including",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "The trail connects several waterfront parks including",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "495090969",
+            "baseUrl": "https://a0.muscache.com/im/pictures/141e789a-fea7-42e0-8388-e9845b0d51bb.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASUlEQVQIHWNUUNNgYeNkZmbWtQ7UNHZhnLxk55vXzzlYf0vIKN+/sJexrjGYk4uXhYWDh5vv3z8WRkVNFUYGZhYWZkam/3x8LAAc7g+ndtZcTQAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Vinoy Park where various music, art & cultural festivals are held throughout the year.  Be sure to spend some time near the seawall .....",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Vinoy Park where various music, art & cultural festivals are held throughout the year.  Be sure to spend some time near the seawall .....",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "313982275",
+            "baseUrl": "https://a0.muscache.com/im/pictures/3551dfd7-2cb1-42f4-8a49-3b39c6b4cd44.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAR0lEQVQIHQXBIQ6AMBAEwN29F2PgH0hMFQgk/OoUodCQNO0xwzEdJhKIVnurnNIpggjJEMFh2U2UCKD34Lyt7n7duZTvzc8PK7gefB4b/jEAAAAASUVORK5CYII=",
+            "accessibilityLabel": "a great spot for up close & frequent dolphin sightings,",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "a great spot for up close & frequent dolphin sightings,",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "313983383",
+            "baseUrl": "https://a0.muscache.com/im/pictures/122cb778-10a7-46bf-b9b9-f4693be2882a.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AZKyxAEBAP8AAP////79/QF3obYB/vr9AAH//wD9/v0BeZ+wD//z/wUFBwEAAfzzAbOndfr69QQCAO/09/v8/F6kJBNPb6XSAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "to see various water birds that inhabit the area and",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "to see various water birds that inhabit the area and",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "313984368",
+            "baseUrl": "https://a0.muscache.com/im/pictures/faeacb3d-bd86-439c-97c8-c8f8f81f9b8d.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//Ab3P2QABAAAA//7+//39/AFsmq8DAgABAAAAAAH+/v0BeKK2AwL/9/LyCg4P+/z8AWh9hebf3vn8BzRBOwECA8VKHZgVg6NLAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "to enjoy tranquil views of Tampa Bay or",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "to enjoy tranquil views of Tampa Bay or",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "313982152",
+            "baseUrl": "https://a0.muscache.com/im/pictures/5dd97951-83eb-4c47-bb40-82d7fd9b1b76.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AZ27zQAA/wAA/wAA//v6+wGVqrb9/fzy7/D29/nF0NoBWYCUAP//+fX01cTA+PX1AVR2iP/+/PLp5+Tb1vj17iqWLS1MVMeGAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "just watch the boats pass by.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "just watch the boats pass by.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "314087936",
+            "baseUrl": "https://a0.muscache.com/im/pictures/6e25f252-3596-4c68-8f5e-7abcec873d7a.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AUlSU0A1N9nVzhkjI+Xs6QE8RT8kGhr38vLk7+3z8PIBTFlFKSQ36ufY3dvi9O/5AV52RvvzAAcLBP38BgYEE/fUH4NOXAmRAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Check out the Gizella Kopsick Palm Arboretum and",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Check out the Gizella Kopsick Palm Arboretum and",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "313983613",
+            "baseUrl": "https://a0.muscache.com/im/pictures/518a7354-b398-42f8-bdc2-6abb87bfd9d8.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASUlEQVQIHWNMj/OSk5dh52JkYn9paRvL6GlvqKGhJiAuxCX0WUfPnDEq2PnT689CwoLWLjam5vaMaYnxt65eEJOQ8QlLkJcQBQDo/BDl8O/3jQAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "the amazing Banyan trees of St. Pete.  This one is located downtown in North Straub Park .....",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "the amazing Banyan trees of St. Pete.  This one is located downtown in North Straub Park .....",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "495192248",
+            "baseUrl": "https://a0.muscache.com/im/pictures/4c911b4d-beb4-4b93-aa7f-15bccd615bb2.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//ATxWcQYVMwD9/fb8AvjiwgFgZm1IMhvx7+0HEBi1xNgBSkM2Rz034N/lAAQD4+jpAY1yYxYSE/fr7gQQDert7Y3uHSS3w0RzAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "right next to the Museum of Fine Arts.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "right next to the Museum of Fine Arts.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "495192042",
+            "baseUrl": "https://a0.muscache.com/im/pictures/088c067b-694b-476a-9456-09ae3f4d4907.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AXdhRtTh69DV4u/x9vz+/gHHooD9DxSIjJnK1OP09/kBaVVXFRsK8uDlBvH2wN7lASUiKTM0Ld7f4Af6/+zy7BFAJxQieaPGAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Vibrant downtown St. Pete has plenty of dining, nightlife & entertainment options.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Vibrant downtown St. Pete has plenty of dining, nightlife & entertainment options.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "495086629",
+            "baseUrl": "https://a0.muscache.com/im/pictures/e2cf0907-bd39-461e-91bd-c80046b2ad28.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//ASkvLwoGB9nZ3wgKBw4SEAEnKigbGRn3/BXb18kjIhIBPT02Hx8iDw4Kz8/XIiIbAWhcVAwND+Hi4/Ly8RwkJTNpFEhhM4gnAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Canopy Rooftop Lounge perched atop The Birchwood Hotel on Beach Dr. is a popular spot with panoramic views of downtown & Tampa Bay.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Canopy Rooftop Lounge perched atop The Birchwood Hotel on Beach Dr. is a popular spot with panoramic views of downtown & Tampa Bay.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "314088468",
+            "baseUrl": "https://a0.muscache.com/im/pictures/ee489a5a-d315-4e82-8562-6596779e9fb4.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//ATMxLggHBf38/Pf6/f4E/wFSQDr5///x+fv5+vve3+MBbUY/7Pz66/j5AP///PD4ATctJv8DBvPw8/b9+/b4+faLKpT1l5BxAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Ceveche Restaurant connected to the historic Ponce De Leon Hotel is one of my personal favorites.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Ceveche Restaurant connected to the historic Ponce De Leon Hotel is one of my personal favorites.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "314088330",
+            "baseUrl": "https://a0.muscache.com/im/pictures/848d6d5d-18b5-4027-b39c-2ec3fafc0c18.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AQsLDBQUDQYHA+/w9/z7/QEyJR4mLioECQrQ0tvv8fMBKiAfCQX79P0CGBwiMDUtAR4bGAoB/wMB//0JEfn7+LdhFz6VQ5I/AAAAAElFTkSuQmCC",
+            "accessibilityLabel": "SUNDIAL Center is a premier shopping & dining destination and includes a movie theater as well.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "SUNDIAL Center is a premier shopping & dining destination and includes a movie theater as well.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "495086888",
+            "baseUrl": "https://a0.muscache.com/im/pictures/d39a9db9-48d9-4549-a947-b9c4d7d3de1f.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/Af7+xQAAGwAA+AD/4AG+opEHBg0BBAD5/O4Bm393CQYFAgUF9fb3AVhLSv8AAAcGBvj4+AE4NTUMDQ8HCAn5+fcjWRfxEvThcAAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Only a short drive to the Gulf communities of St. Pete Beach & Pass-A-Grille and Fort De Soto Park with some of the finest beaches in the area and",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Only a short drive to the Gulf communities of St. Pete Beach & Pass-A-Grille and Fort De Soto Park with some of the finest beaches in the area and",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "313972322",
+            "baseUrl": "https://a0.muscache.com/im/pictures/5ac9a7f8-d80f-42c9-86ef-fa8d38cc5f4a.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AaJXKwkKARAJBPf8/vb3/wGhTSIkGQUnHhHt8fXh6PgBTx0TLhgHT1A7/N3X2+DxAQwHBgsEBAkCAvr///T7/D0YG5GwkZRmAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "spectacular sunsets.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "spectacular sunsets.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "307378480",
+            "baseUrl": "https://a0.muscache.com/im/pictures/310daabf-fda6-49a7-8de4-e5fa17009afa.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AbOrov0CBgD//woHBgGqo5n0AAn7+voZEQ0Bpp+V6/gB/fz8JRwXAaGbkfYCCv79/BsRDgGsopUDBgj+/gAIBwbQ3hw5iloLEAAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Enjoy your stay!",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Enjoy your stay!",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          }
+        ],
+        "roomTourLayoutInfos": [
+          {
+            "__typename": "MerlinRoomTourLayoutInfo",
+            "roomTourItems": [
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Living room",
+                "highlights": null,
+                "imageIds": [
+                  "494568973",
+                  "494568969",
+                  "494568974"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "494568973"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "494568969",
+                      "rightLandscapeId": "494568974"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Bedroom",
+                "highlights": [
+                  {
+                    "__typename": "MerlinBasicListItem",
+                    "anchor": null,
+                    "icon": null,
+                    "image": null,
+                    "subtitle": null,
+                    "title": "Queen bed"
+                  }
+                ],
+                "imageIds": [
+                  "494568976",
+                  "494568977",
+                  "494568978",
+                  "494568979"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "494568976"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "494568977",
+                      "rightLandscapeId": "494568978"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "494568979"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Kitchenette",
+                "highlights": null,
+                "imageIds": [
+                  "307376326",
+                  "304878736",
+                  "494568975"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "307376326"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "304878736",
+                      "rightLandscapeId": "494568975"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Full bathroom",
+                "highlights": null,
+                "imageIds": [
+                  "494568981",
+                  "494568982",
+                  "304531765"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "494568981"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "494568982",
+                      "rightLandscapeId": "304531765"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Exterior",
+                "highlights": null,
+                "imageIds": [
+                  "494568987"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "494568987"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Patio",
+                "highlights": null,
+                "imageIds": [
+                  "494568986"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "494568986"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Laundry area",
+                "highlights": null,
+                "imageIds": [
+                  "136871857"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "136871857"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Pool",
+                "highlights": null,
+                "imageIds": [
+                  "494568984"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "494568984"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Additional photos",
+                "highlights": null,
+                "imageIds": [
+                  "314085445",
+                  "495085531",
+                  "313975149",
+                  "495086162",
+                  "314088035",
+                  "495191931",
+                  "313964909",
+                  "495085621",
+                  "314081679",
+                  "495255120",
+                  "495090969",
+                  "313982275",
+                  "313983383",
+                  "313984368",
+                  "313982152",
+                  "314087936",
+                  "313983613",
+                  "495192248",
+                  "495192042",
+                  "495086629",
+                  "314088468",
+                  "314088330",
+                  "495086888",
+                  "313972322",
+                  "307378480"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "314085445"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "495085531",
+                      "rightLandscapeId": "313975149"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "495086162"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "314088035",
+                      "rightLandscapeId": "495191931"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "313964909"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "495085621",
+                      "rightLandscapeId": "314081679"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "495255120"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "495090969",
+                      "rightLandscapeId": "313982275"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "313983383"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "313984368",
+                      "rightLandscapeId": "313982152"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "314087936"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "313983613",
+                      "rightLandscapeId": "495192248"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "495192042"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "495086629",
+                      "rightLandscapeId": "314088468"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "314088330"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "495086888",
+                      "rightLandscapeId": "313972322"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "307378480"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "gridImageLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.gridImage",
+          "section": "photoTour",
+          "component": "gridImage",
+          "experiments": null
+        },
+        "carouselImageNavigationLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.carouselImageNavigation",
+          "section": "photoTour",
+          "component": "carouselImageNavigation",
+          "experiments": null
+        },
+        "saveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Save",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.save",
+            "section": "photoTour",
+            "component": "save",
+            "experiments": null
+          }
+        },
+        "unsaveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Saved",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.unsave",
+            "section": "photoTour",
+            "component": "unsave",
+            "experiments": null
+          }
+        },
+        "shareButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Share",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.share",
+            "section": "photoTour",
+            "component": "share",
+            "experiments": null
+          }
+        },
+        "closeButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Close",
+          "anchor": null,
+          "icon": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "component": "close",
+            "section": "photoTour",
+            "loggingId": "pdp.photoTour.close"
+          }
+        },
+        "seePhotosButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Show all photos",
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.seePhotos",
+            "section": "photoTour",
+            "component": "seePhotos",
+            "experiments": null
+          }
+        }
+      }
+    }
+  },
+  "extensions": {
+    "traceId": "GAPLFaf2O5aswD94tw9E_g=="
+  }
+}

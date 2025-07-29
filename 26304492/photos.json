@@ -1,0 +1,885 @@
+{
+  "data": {
+    "merlin": {
+      "__typename": "MerlinQuery",
+      "pdpPhotoTour": {
+        "__typename": "MerlinPdpPhotoTourResponse",
+        "roomsOverviewTitle": "Property overview",
+        "images": [
+          {
+            "__typename": "MerlinImage",
+            "id": "984558415",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/0fc811ba-946f-4ddd-9fec-e7f669970b3b.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Stylish lounge area features a magnificent wood wall and classic HermanMiller furnishings",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Stylish lounge area features a magnificent wood wall and classic HermanMiller furnishings",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "575950945",
+            "baseUrl": "https://a0.muscache.com/im/pictures/1df1b93d-e8b9-4bad-a65c-33d9b620922f.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZVgPdPl8k9BM/1Cbuzz8wGuknPl5ucTEA7+ChfyAQ4BsJZ+2cm86PYHGBkZJSkoWOQWn3r/cpoAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Stylish lounge area features a magnificent wood wall",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Stylish lounge area features a magnificent wood wall",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558417",
+            "baseUrl": "https://a0.muscache.com/im/pictures/31b657c7-9b32-475a-b06a-58b83d2166cf.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZSTkgwNDRwcHRUVFfHy8QHT3dzz8+Lh3eAyLTvT1NcByM3OmI6L/fr27/X8KikqN2sas6O/PNoAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Sparkling clean fully-equipped kitchen features a massive quartz bar for casual dining and socializing, with built-in wine cooler",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Sparkling clean fully-equipped kitchen features a massive quartz bar for casual dining and socializing, with built-in wine cooler",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558445",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/c27f9de8-47aa-45da-85eb-841d441af87d.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Sparkling clean kitchen with high-end cabinets, stainless appliances, and quartz countertops",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Sparkling clean kitchen with high-end cabinets, stainless appliances, and quartz countertops",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558430",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/0f6aedec-69c5-450f-a911-ebfbaccd4f90.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Beautiful fully-equipped kitchen with high-end cabinets, stainless appliances, and quartz countertops",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Beautiful fully-equipped kitchen with high-end cabinets, stainless appliances, and quartz countertops",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558444",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/75eb1930-ecb2-417b-89ad-3415373a63ee.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Beautiful fully-equipped kitchen with high-end cabinets, stainless appliances, and quartz countertops",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Beautiful fully-equipped kitchen with high-end cabinets, stainless appliances, and quartz countertops",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558461",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/999a064a-16e9-4225-95f4-8980d03a77f2.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Beautiful fully-equipped kitchen with high-end cabinets, stainless appliances, and quartz countertops",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Beautiful fully-equipped kitchen with high-end cabinets, stainless appliances, and quartz countertops",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558448",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/9f304903-293d-4dd4-92e5-f298d1b81053.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Quiet and spacious master suite features queen dual-chamber SleepNumber bed, large walk-in closet, HDTV, independent temperature control, and pool view.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Quiet and spacious master suite features queen dual-chamber SleepNumber bed, large walk-in closet, HDTV, independent temperature control, and pool view.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558488",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/7f42ada5-9e34-4216-8e0a-cefaad40e79e.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Quiet and spacious master suite features queen dual-chamber SleepNumber bed, large walk-in closet, HDTV, independent temperature control, and pool view.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Quiet and spacious master suite features queen dual-chamber SleepNumber bed, large walk-in closet, HDTV, independent temperature control, and pool view.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558436",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/f54ffda8-5361-40ce-b83e-4a8b9cb69af7.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Spacious guest bedroom is equipped with queen size SleepNumber bed, and independent temperature control.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Spacious guest bedroom is equipped with queen size SleepNumber bed, and independent temperature control.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558416",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/4df55b02-8975-4653-a8e1-3722c71b8562.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Third bedroom includes dual twin-size SleepNumber beds and a fun atmosphere for children",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Third bedroom includes dual twin-size SleepNumber beds and a fun atmosphere for children",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558473",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/a07d9802-1b9b-49dd-a1b5-ffc0c0ae8b0f.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Guest bathroom features Kohler fixtures, extra deep tub, and unique custom tilework",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Guest bathroom features Kohler fixtures, extra deep tub, and unique custom tilework",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558478",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/2c4ed90a-e7a2-41be-9d65-e54e39d8b6a0.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Guest bathroom features Kohler fixtures, extra deep tub, and unique custom tilework",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Guest bathroom features Kohler fixtures, extra deep tub, and unique custom tilework",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558468",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/7aa03c8a-86d2-4185-afeb-aae533d43d85.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Master bathroom features quartz dual vanity layout, floor to ceiling custom tilework, and Kohler fixtures.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Master bathroom features quartz dual vanity layout, floor to ceiling custom tilework, and Kohler fixtures.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558441",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/6c8a7aa6-851d-4c26-868b-0c0a60e3831a.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Convenient beach bathroom is accessible from both the garage and the interior",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Convenient beach bathroom is accessible from both the garage and the interior",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558440",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/3d26e2b5-b221-439e-bffa-525fd09ae9c3.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Eight place dining area features classic HermanMiller furnishings",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Eight place dining area features classic HermanMiller furnishings",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558413",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/81feeefc-e848-47d5-bca6-8d3f67d08853.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Eight place dining area, located within easy reach of wine service and kitchen",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Eight place dining area, located within easy reach of wine service and kitchen",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "720220025",
+            "baseUrl": "https://a0.muscache.com/im/pictures/b7d2c1a8-f4af-46b4-aa04-9b83ad7fcaaf.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AaCtxODh4/Ds5ert7//79QGaprfOzcvt7e/7/gD9/PcBfn5ovcHRCxAUAA0OBf/xAV5iPvv9/fL19xcWCP/9/5j3KTK3bzydAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Beach cruisers include two adult size (with removable baskets for the beach and shopping), one \"big kid\", and one child size",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Beach cruisers include two adult size (with removable baskets for the beach and shopping), one \"big kid\", and one child size",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "984558490",
+            "baseUrl": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-26304492-unapproved/original/d4f07b97-3a3b-4448-afa3-e4138673a315.JPEG",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Well-lit barrier-free entry, with unique custom tilework. Entry is secured with a smart deadbolt lock, including a \"privacy mode\" that when enabled prevents lock operation altogether. ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Well-lit barrier-free entry, with unique custom tilework. Entry is secured with a smart deadbolt lock, including a \"privacy mode\" that when enabled prevents lock operation altogether. ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "655998084",
+            "baseUrl": "https://a0.muscache.com/im/pictures/8d191fbc-6d39-406b-997d-1a233ff2b605.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AbS8xgIHCgUHCAwC+QT88AF2dnD+//UQCAEB+fAKCP4BRUMyFQ8G+fn/ERALFBMMq7IQ7b5gAd0AAAAASUVORK5CYII=",
+            "accessibilityLabel": "Directly above the home, looking northwest toward Clearwater Beach",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Directly above the home, looking northwest toward Clearwater Beach",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "636388154",
+            "baseUrl": "https://a0.muscache.com/im/pictures/f4c22aa4-eb19-4fb4-9f34-581ab947c732.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AbixoQ0OCe3z/I6TpG5rYQF4eXnz8fACAPnB1OEhFf4BR1BU/f4E7fTv/QMH+O3YAU5YZt7d1/b27xANDfb59E0dI/Wv2uYfAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "More than two dozen beach access points are available to you in Indian Rocks Beach, less than 5 minutes from the home",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "More than two dozen beach access points are available to you in Indian Rocks Beach, less than 5 minutes from the home",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1312603211",
+            "baseUrl": "https://a0.muscache.com/im/pictures/6c2e92f8-4590-43b5-8f33-59ff12b6bfc4.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Guests will enjoy a private pool situated in a tropical landscape, featuring a variety of lounge seating options and plenty of pool toys for the kids. ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Guests will enjoy a private pool situated in a tropical landscape, featuring a variety of lounge seating options and plenty of pool toys for the kids. ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1312603272",
+            "baseUrl": "https://a0.muscache.com/im/pictures/c5594f2e-c193-4087-a64f-5c306c839bb4.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Guests will enjoy a break from the sun in the spacious screened-in lanai",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Guests will enjoy a break from the sun in the spacious screened-in lanai",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1312608632",
+            "baseUrl": "https://a0.muscache.com/im/pictures/509bf245-74a1-4911-a2ea-20eb0804de19.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Poolside lanai features unique moonlight coffee table and high-end patio furniture. ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Poolside lanai features unique moonlight coffee table and high-end patio furniture. ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1312607167",
+            "baseUrl": "https://a0.muscache.com/im/pictures/88173737-bb76-400b-887a-6f50e57ea5a7.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Elegantly lit and landscaped backyard lounge. ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Elegantly lit and landscaped backyard lounge. ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1312607608",
+            "baseUrl": "https://a0.muscache.com/im/pictures/53dcbe13-9c4b-4b18-91ba-18777293e33b.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Built-in barbecue lighting for late night snacks!",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Built-in barbecue lighting for late night snacks!",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "655998005",
+            "baseUrl": "https://a0.muscache.com/im/pictures/a382c0ae-015a-4994-bd74-f4bda7a06278.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//ARMRHAkKBgQEAP39+v//AQEfHCLkMloCRVH/xrUCrYsBBgQR/h0oAhYWAerk/+XcbQURjMwHQXcAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Guests will enjoy the relaxing backyard and pool area even after the sun sets",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Guests will enjoy the relaxing backyard and pool area even after the sun sets",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1312603025",
+            "baseUrl": "https://a0.muscache.com/im/pictures/d789e2a0-2328-4cdd-84a2-ea17ea74b14e.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Pool image 2",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1312603170",
+            "baseUrl": "https://a0.muscache.com/im/pictures/7fbfa5ae-2dd3-49f1-a83f-955232f2cbef.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Pool image 3",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          }
+        ],
+        "roomTourLayoutInfos": [
+          {
+            "__typename": "MerlinRoomTourLayoutInfo",
+            "roomTourItems": [
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Living room",
+                "highlights": null,
+                "imageIds": [
+                  "984558415",
+                  "575950945"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "984558415",
+                      "rightLandscapeId": "575950945"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Full kitchen",
+                "highlights": null,
+                "imageIds": [
+                  "984558417",
+                  "984558445",
+                  "984558430",
+                  "984558444",
+                  "984558461"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "984558417"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "984558445",
+                      "rightLandscapeId": "984558430"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "984558444",
+                      "rightLandscapeId": "984558461"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Bedroom 1",
+                "highlights": [
+                  {
+                    "__typename": "MerlinBasicListItem",
+                    "anchor": null,
+                    "icon": null,
+                    "image": null,
+                    "subtitle": null,
+                    "title": "Queen bed"
+                  }
+                ],
+                "imageIds": [
+                  "984558448",
+                  "984558488"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "984558448",
+                      "rightLandscapeId": "984558488"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Bedroom 2",
+                "highlights": [
+                  {
+                    "__typename": "MerlinBasicListItem",
+                    "anchor": null,
+                    "icon": null,
+                    "image": null,
+                    "subtitle": null,
+                    "title": "Queen bed"
+                  }
+                ],
+                "imageIds": [
+                  "984558436"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "984558436"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Bedroom 3",
+                "highlights": [
+                  {
+                    "__typename": "MerlinBasicListItem",
+                    "anchor": null,
+                    "icon": null,
+                    "image": null,
+                    "subtitle": null,
+                    "title": "2 single beds"
+                  }
+                ],
+                "imageIds": [
+                  "984558416"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "984558416"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Full bathroom 1",
+                "highlights": null,
+                "imageIds": [
+                  "984558473",
+                  "984558478"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "984558473",
+                      "rightLandscapeId": "984558478"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Full bathroom 2",
+                "highlights": null,
+                "imageIds": [
+                  "984558468"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "984558468"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Full bathroom 3",
+                "highlights": null,
+                "imageIds": [
+                  "984558441"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "984558441"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Dining area",
+                "highlights": null,
+                "imageIds": [
+                  "984558440",
+                  "984558413"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "984558440",
+                      "rightLandscapeId": "984558413"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Exterior",
+                "highlights": null,
+                "imageIds": [
+                  "720220025",
+                  "984558490",
+                  "655998084",
+                  "636388154"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "720220025"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "984558490",
+                      "rightLandscapeId": "655998084"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "636388154"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Patio",
+                "highlights": null,
+                "imageIds": [
+                  "1312603211",
+                  "1312603272",
+                  "1312608632"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1312603211"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1312603272",
+                      "rightLandscapeId": "1312608632"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Backyard",
+                "highlights": null,
+                "imageIds": [
+                  "1312607167",
+                  "1312607608"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1312607167",
+                      "rightLandscapeId": "1312607608"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Pool",
+                "highlights": null,
+                "imageIds": [
+                  "655998005",
+                  "1312603025",
+                  "1312603170"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "655998005"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1312603025",
+                      "rightLandscapeId": "1312603170"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "gridImageLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.gridImage",
+          "section": "photoTour",
+          "component": "gridImage",
+          "experiments": null
+        },
+        "carouselImageNavigationLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.carouselImageNavigation",
+          "section": "photoTour",
+          "component": "carouselImageNavigation",
+          "experiments": null
+        },
+        "saveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Save",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.save",
+            "section": "photoTour",
+            "component": "save",
+            "experiments": null
+          }
+        },
+        "unsaveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Saved",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.unsave",
+            "section": "photoTour",
+            "component": "unsave",
+            "experiments": null
+          }
+        },
+        "shareButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Share",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.share",
+            "section": "photoTour",
+            "component": "share",
+            "experiments": null
+          }
+        },
+        "closeButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Close",
+          "anchor": null,
+          "icon": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "component": "close",
+            "section": "photoTour",
+            "loggingId": "pdp.photoTour.close"
+          }
+        },
+        "seePhotosButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Show all photos",
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.seePhotos",
+            "section": "photoTour",
+            "component": "seePhotos",
+            "experiments": null
+          }
+        }
+      }
+    }
+  },
+  "extensions": {
+    "traceId": "AUWsuJMUh9WNRaoO8zqnvw=="
+  }
+}

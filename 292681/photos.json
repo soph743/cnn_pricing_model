@@ -1,0 +1,734 @@
+{
+  "data": {
+    "merlin": {
+      "__typename": "MerlinQuery",
+      "pdpPhotoTour": {
+        "__typename": "MerlinPdpPhotoTourResponse",
+        "roomsOverviewTitle": null,
+        "images": [
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164933",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/8aa49f3b-506b-4a3d-9537-a5a7bba656d1.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AdTEugsMDf8IDgAGCtnX0gHDrZHs6O4GCxAdJy/v+P0B0ptZ7gAl5f0K9/P38+vfBpYYvzZzrdUAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 1",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "COVER",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164992",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/d3644dc7-edad-4453-8141-e4b20207148a.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Aerq7fLx2vmTbOvW1O0gFQHm1rjTwKPo8vzc4OsBAO0BzayN/QweA+7Z+fDm3+79J84g1qOSlAwAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 2",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164932",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/03382b57-87f5-4895-9b78-dc2df05f2d94.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Ad3Rv/sACPr9/wACAu7x9QHOvawCAwL9/wHa1tYUGiABj3RXOhsGAR02BhUjx6qNQWYUlvCTiPAAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 3",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164908",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/4d9783d0-14c1-44a4-825f-b24abf54fa2f.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AcbAuhcL/+/x8uDe29bIwAG7trDv5+ImJiPu7OcUBfQB0MW71se4/vHnDRog9vn78S0e8MqDRe4AAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 4",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164794",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/fca70645-4663-4ba4-9c07-f56617c66835.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AcGxnA8YIv36+x4lLfb5+gHKuqbq7fILCw0XGRz1+fcBt5+G3uLp/fr9QD465OLadjEbvi61AiYAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 5",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "212029491",
+            "baseUrl": "https://a0.muscache.com/im/pictures/26772712-e6cf-41f4-be02-240f29d3030f.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASUlEQVQIHWN0Sur7+vzUv69vXVObxRRVGNV1DeU0jYUlpE2D0jg42BgTckollTRYmP9LK6kyMbEy+ng6iggJ8fNyaRlaMLOxAwCWrA958MzOBwAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Two blocks from the Bay Beach ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Two blocks from the Bay Beach ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "212028992",
+            "baseUrl": "https://a0.muscache.com/im/pictures/63337718-c4a8-427d-842c-f356a8a86179.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AXd0cgoLCwD++wsLC/b6/gFeVU40Oj389/H3+v7g4eYBUEtJOy4iBgwLCQ0R3N/mAS8nIyEG9zRCTPz9/tvV0XOcHNVSqi8tAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Mocha Room with Flatscreen TV",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Mocha Room with Flatscreen TV",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "212029032",
+            "baseUrl": "https://a0.muscache.com/im/pictures/ba1ebab1-acf3-4545-a2e7-3a9229e23992.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/Aaqlpc3IwgsKCQYG+wHGxsjNxLwLCAXo7/IBy87RwbivDQkG/f8BAb7DyL6zqfz7+UU/PgGcoam7sKXp7e9bX2JUWSOPtIA/+gAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Newly renovated Bathroom",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Newly renovated Bathroom",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1273226408",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/840a3ead-a00b-4dc2-a630-4d7281f60487.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Living room",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Living room",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1188701911",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/79ae814a-08c5-42e6-9839-5e90836a6ee6.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Use of Microwave and refrigerator included in the booking.  Relax at the kitchen peninsula and outdoor patio if you choose.  If you prefer the hosts to prepare their signature breakfast and healthy meals it is an affordable additional charge. ",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Use of Microwave and refrigerator included in the booking.  Relax at the kitchen peninsula and outdoor patio if you choose.  If you prefer the hosts to prepare their signature breakfast and healthy meals it is an affordable additional charge. ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1188713553",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/c8e0fb61-baa2-4ef3-91cf-39437337fa12.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Use of Microwave and refrigerator included in the booking.  Relax at the kitchen peninsula and outdoor patio if you choose.  If you prefer the hosts to prepare their signature breakfast and healthy meals it is an affordable additional charge. ",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Use of Microwave and refrigerator included in the booking.  Relax at the kitchen peninsula and outdoor patio if you choose.  If you prefer the hosts to prepare their signature breakfast and healthy meals it is an affordable additional charge. ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1188701910",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/3ba1fba8-8bd8-4c75-a1d1-fc3c8bda0274.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Relax on the patio,. have a bite if you bring it, or enjoy a home-cooked and healthy breakfast or meal prepared by the hosts for an affordable additional charge.",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Relax on the patio,. have a bite if you bring it, or enjoy a home-cooked and healthy breakfast or meal prepared by the hosts for an affordable additional charge.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "212029714",
+            "baseUrl": "https://a0.muscache.com/im/pictures/e13d4a50-3ed2-416a-9ddc-cd792f6e87e0.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AU4+IkREPvz9/w8Q/unk7gGIZjIGFivv7ub6/xTt3t8BSUEoRTo049rVGykzrLjLAX1rQfoFFdXQ0QoPEvD49uWYH4P96kUbAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Gourmet market. Walk there",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Gourmet market. Walk there",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "212029778",
+            "baseUrl": "https://a0.muscache.com/im/pictures/77121053-c129-4aa9-97c1-d0a93da690e1.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AUc7MzM0Nurr6/v57yYa+wE4MloI/hEVHiHn7r0eD+sBGxUiCAcJDAgV9/7nCAL8AR4aHQMDAv38//v6/AMDAiyFGNFMxPwpAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Beach Drive restaurants and sweet treats. Walk there.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Beach Drive restaurants and sweet treats. Walk there.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "212029831",
+            "baseUrl": "https://a0.muscache.com/im/pictures/3459d796-91d9-46af-b6d8-990ea8d6b903.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//ASUjd+YHEQH78//48gD57wFTNWnPDCIGBQfo8PodDfgBZWly8+3wHyUvBf3vBwcCARsdPxsdH/37Bfv33RQUCoQtGsbOOuPQAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "The Sundial features restaurants and movie theatre. Wall there. ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "The Sundial features restaurants and movie theatre. Wall there. ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "212031990",
+            "baseUrl": "https://a0.muscache.com/im/pictures/355f3a6c-5117-4ab2-ba0a-b34a1bbef7ca.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYaMjBUQFPP48evs7dbX1QGspJwHAeoABhLx8f7NzNUBe2NrEAr2+gkE8AAB5/D8cGQZZRZxF3wAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 16",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "212031743",
+            "baseUrl": "https://a0.muscache.com/im/pictures/a24d3ea2-679b-4d55-9506-95011e9c47e1.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AV2OwzMeCfjz6a7E3w762wGtxNatsK9TPSWdqsYYM0oBZmdg8e/n/A8k09XiPy0aa9gY8e5i+3cAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Dali and Chilhuly museums and Museum of Fine Art.  Walk there,",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Dali and Chilhuly museums and Museum of Fine Art.  Walk there,",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "213574237",
+            "baseUrl": "https://a0.muscache.com/im/pictures/48e7907b-5119-46f2-b6fa-7ea32187c06e.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AafL5f7+/QAAAP8A/wAAAQFHZ1IoJT0XEhf8+vnf48wBK00mJCAs/Pn4DQQP59rT/oAVSXAzKUoAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Dine or stroll along the marina or just have a gelato!",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Dine or stroll along the marina or just have a gelato!",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164749",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/592586af-87af-46f7-8cc1-e9775f384cbc.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Ab+2ph4eHwgB+vf07/v7+gGxnocfJzAJ++QBAQvR3+oBrJqHR0dF8eLS+OLUu9TgUBgahAUmvvYAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 19",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164764",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/158b3f4d-386b-460c-ae58-195e6f623058.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AcSypBshI+Xu7O/s6xUREwHZyLsABAXy9O36/P4DAAEBwa2dIB8fB/TZ5fULAvLhUw4YYvR8MW4AAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 20",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164806",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/336f2fdb-0be6-43f2-b07d-f9d0001c2537.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AcrBtBEODggKCu3u6vz7+QHGvbEVEhLu8+7p7ewVDQsBtaqbBwUFEgsGAQEB+/v0KqwVhwiASIAAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 21",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164812",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/0b650ee9-ee16-4479-9cc6-9349d697ef63.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Abi0sQTr1SEyOtnRzf7o2AHHu6z6694FCAXx+AD549oBva6g4tDCIhgH3eb17ezvsG8diSnMcYEAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 22",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164815",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/c3284ca6-890a-4dcb-b9f0-2f5ceec7e5e5.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AdfMwBscH9na2v8BAOfu7AHPw7gWFxfv7+8BBATg4t8BwKGLCxcf/gQFBAgH3N/fUmUW8UTMKc0AAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 23",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164887",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/69c0e4f7-c6b7-4d1f-a0f0-9ec7122f089e.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZ6PfjIyMQoTGvP19wYGBQGyopMH/vXS1NkqMzYmLjYBmYl9LSIXCgkJ7OTdBA4XxIIR33gSVFEAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 24",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164898",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/314059a3-82d6-492b-a8ad-4f441ae39c42.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AePi4fz7+gwNDf749Pr49gHa0cn5+PT7+PL8AAnx6eQB1LCP8fsH+fXsGRQR/OG+RAMhTap5y7wAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 25",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164907",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/a723be4e-9330-4c3b-996f-41acef8f6d70.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWO8f+siIxMzByfX7z//GYHg0PblrMw/v3/9/Pz1N2MTK8bpud4aVo6MvMI/Pn/9/P0bAPvNFuTFyKQCAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Listing image 26",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164926",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/a3b27704-8b85-42b2-8ce9-c24871a70e4b.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AdfTzwgKC/r6+AL++woLCwHY0s3l29EQHiT059sPFBsBzr+yxMK9/QcIJBwgFhcWUUMWIERM0kYAAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 27",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164962",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/bc6db73f-3591-46c4-a84e-335236fe798d.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AaCIdiY0Ogvu1xgRBegBGwHKuq0OICfryLEMBv4EGy8BnY5/7vL0E/biJBcM0trjwEoUv5/TQw0AAAAASUVORK5CYII=",
+            "accessibilityLabel": "Listing image 28",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1528164963",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-292681/original/1950b530-ae51-474c-9ced-4a39860e944c.jpeg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWM8GszN+JdVxCfvo7rF22e3GBuynRSlBRjYVf8x/pfXsWE83mPOIabPIaL67KvAuZtPAJqyEa1v6MqBAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Listing image 29",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          }
+        ],
+        "roomTourLayoutInfos": [
+          {
+            "__typename": "MerlinRoomTourLayoutInfo",
+            "roomTourItems": [
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": null,
+                "highlights": null,
+                "imageIds": [
+                  "1528164933",
+                  "1528164992",
+                  "1528164932",
+                  "1528164908",
+                  "1528164794",
+                  "212029491",
+                  "212028992",
+                  "212029032",
+                  "1273226408",
+                  "1188701911",
+                  "1188713553",
+                  "1188701910",
+                  "212029714",
+                  "212029778",
+                  "212029831",
+                  "212031990",
+                  "212031743",
+                  "213574237",
+                  "1528164749",
+                  "1528164764",
+                  "1528164806",
+                  "1528164812",
+                  "1528164815",
+                  "1528164887",
+                  "1528164898",
+                  "1528164907",
+                  "1528164926",
+                  "1528164962",
+                  "1528164963"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1528164933"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1528164992",
+                      "rightLandscapeId": "1528164932"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1528164908"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1528164794",
+                      "rightLandscapeId": "212029491"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "HORIZONTAL_FLIP",
+                    "format": "ONE_PORTRAIT_TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinOnePortraitTwoLandscapesMediaBlock",
+                      "lowerLandscapeId": "1273226408",
+                      "portraitId": "212029032",
+                      "upperLandscapeId": "212028992"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "THREE_PORTRAITS_TALL",
+                    "mediaBlock": {
+                      "__typename": "MerlinThreePortraitsTallMediaBlock",
+                      "leftPortraitId": "1188701911",
+                      "lowerRightPortraitId": "1188701910",
+                      "upperRightPortraitId": "1188713553"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "212029714"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "212029778",
+                      "rightLandscapeId": "212029831"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "212031990"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "212031743",
+                      "rightLandscapeId": "213574237"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1528164749"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1528164764",
+                      "rightLandscapeId": "1528164806"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1528164812"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1528164815",
+                      "rightLandscapeId": "1528164887"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1528164898"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1528164907",
+                      "rightLandscapeId": "1528164926"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1528164962",
+                      "rightLandscapeId": "1528164963"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "gridImageLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.gridImage",
+          "section": "photoTour",
+          "component": "gridImage",
+          "experiments": null
+        },
+        "carouselImageNavigationLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.carouselImageNavigation",
+          "section": "photoTour",
+          "component": "carouselImageNavigation",
+          "experiments": null
+        },
+        "saveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Save",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.save",
+            "section": "photoTour",
+            "component": "save",
+            "experiments": null
+          }
+        },
+        "unsaveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Saved",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.unsave",
+            "section": "photoTour",
+            "component": "unsave",
+            "experiments": null
+          }
+        },
+        "shareButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Share",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.share",
+            "section": "photoTour",
+            "component": "share",
+            "experiments": null
+          }
+        },
+        "closeButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Close",
+          "anchor": null,
+          "icon": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "component": "close",
+            "section": "photoTour",
+            "loggingId": "pdp.photoTour.close"
+          }
+        },
+        "seePhotosButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Show all photos",
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.seePhotos",
+            "section": "photoTour",
+            "component": "seePhotos",
+            "experiments": null
+          }
+        }
+      }
+    }
+  },
+  "extensions": {
+    "traceId": "yGI3cgDoS2lEVGqnXAbmPg=="
+  }
+}

@@ -1,0 +1,928 @@
+{
+  "data": {
+    "merlin": {
+      "__typename": "MerlinQuery",
+      "pdpPhotoTour": {
+        "__typename": "MerlinPdpPhotoTourResponse",
+        "roomsOverviewTitle": "Property overview",
+        "images": [
+          {
+            "__typename": "MerlinImage",
+            "id": "1180906255",
+            "baseUrl": "https://a0.muscache.com/im/pictures/bc731e76-1317-4823-a6cd-2a4e1967dcaf.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "All new shower!",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "All new shower!",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180631004",
+            "baseUrl": "https://a0.muscache.com/im/pictures/e98051e9-4b8b-4772-821e-0b7f06473cdb.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Everything is brand new in your suite's private bathroom",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Everything is brand new in your suite's private bathroom",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1269815954",
+            "baseUrl": "https://a0.muscache.com/im/pictures/2f1c73d5-633c-4dd5-9821-b12e2566920a.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Just like a hotel room there is a private entrance into this serene and comfortable space with its own ensuite bathroom",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Just like a hotel room there is a private entrance into this serene and comfortable space with its own ensuite bathroom",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180918206",
+            "baseUrl": "https://a0.muscache.com/im/pictures/02314f3b-6436-436c-acdf-61812cba938a.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Private entrance with keyless entry.  The code changes with each new guest",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Private entrance with keyless entry.  The code changes with each new guest",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1261024941",
+            "baseUrl": "https://a0.muscache.com/im/pictures/c248b7e5-999b-493e-90b8-b119d587a79e.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Relax in a comphy chair and enjoy the original artwork",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Relax in a comphy chair and enjoy the original artwork",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1261024838",
+            "baseUrl": "https://a0.muscache.com/im/pictures/9714af4c-07c6-4ed8-94f2-08c786e38fa4.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Super comphy new mattress 2021 with high quality bed linens",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Super comphy new mattress 2021 with high quality bed linens",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1269817217",
+            "baseUrl": "https://a0.muscache.com/im/pictures/29a3a818-778d-42e8-99e4-097faf1d4341.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Sit and relax in this comfortable accent chair",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Sit and relax in this comfortable accent chair",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1261024780",
+            "baseUrl": "https://a0.muscache.com/im/pictures/02125026-19af-47b0-a302-e7bac0fa7007.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "For your convenience you'll find a microwave, mini fridge, coffee maker, snack station and dinnerware ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "For your convenience you'll find a microwave, mini fridge, coffee maker, snack station and dinnerware ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1269817331",
+            "baseUrl": "https://a0.muscache.com/im/pictures/d87f225b-052d-44fe-92d7-01e0ff9dced0.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "New vanity with storage ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "New vanity with storage ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180892188",
+            "baseUrl": "https://a0.muscache.com/im/pictures/ff80a8fc-15a7-4c06-ac42-b8f24161c2dc.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Stocked with water and other beverages. Keep food and beverages cold in the mini fridge",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Stocked with water and other beverages. Keep food and beverages cold in the mini fridge",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1261024657",
+            "baseUrl": "https://a0.muscache.com/im/pictures/5641c5f5-52a4-436e-82d3-cc7830650305.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Additional photos image 7",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180909798",
+            "baseUrl": "https://a0.muscache.com/im/pictures/94eacace-4e9a-4081-9476-7f6ff94ebcf8.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "North Shore park - walk the waterfront. You'll see people walking, gathering, sunbathing, playing volleyball and soccer games. ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "North Shore park - walk the waterfront. You'll see people walking, gathering, sunbathing, playing volleyball and soccer games. ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1158206799",
+            "baseUrl": "https://a0.muscache.com/im/pictures/ce858930-13ef-47ed-87bd-9bd21ba7b937.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Pass-a-Grille Beach - quite possibly the best beach with white sands, wildlife and trendy bars, restaurants and unique shops and clothing boutiques",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Pass-a-Grille Beach - quite possibly the best beach with white sands, wildlife and trendy bars, restaurants and unique shops and clothing boutiques",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1158210295",
+            "baseUrl": "https://a0.muscache.com/im/pictures/e57c1abf-dcea-4db6-bf95-c578eff0fe68.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Vinoy Basin - in downtown St Pete is a Hotspot for events and a favorite for strolls along the water",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Vinoy Basin - in downtown St Pete is a Hotspot for events and a favorite for strolls along the water",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180925305",
+            "baseUrl": "https://a0.muscache.com/im/pictures/14bbba32-e040-4263-aa78-288f9babdf0b.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Vinoy Park is where many locals and tourists enjoy an exhilarating waterfront stroll ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Vinoy Park is where many locals and tourists enjoy an exhilarating waterfront stroll ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180928345",
+            "baseUrl": "https://a0.muscache.com/im/pictures/5e0683cd-c5c5-4258-a3e5-5d73463a0f3c.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "The St Pete Pier - the gem of downtown St Pete with wonderful restaurants, shops and live entertainment ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "The St Pete Pier - the gem of downtown St Pete with wonderful restaurants, shops and live entertainment ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1158207239",
+            "baseUrl": "https://a0.muscache.com/im/pictures/96cc2740-eae6-47e0-a88a-0dbf3d6768e5.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "The entrance to The St Pete Pier. Nearby you'll find unique pop-up shops!",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "The entrance to The St Pete Pier. Nearby you'll find unique pop-up shops!",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1158218150",
+            "baseUrl": "https://a0.muscache.com/im/pictures/9fd6c18e-c20b-4a97-9254-f65d88cd308c.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "St Pete's walkable Old Northeast neighborhood",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "St Pete's walkable Old Northeast neighborhood",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1158214127",
+            "baseUrl": "https://a0.muscache.com/im/pictures/4c66d02b-0f74-4942-9ad3-e54591e0bdf7.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "The Hula Bay Club - a short drive over the Gandy Bridge into Tampa offers some of the best waterfront dining",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "The Hula Bay Club - a short drive over the Gandy Bridge into Tampa offers some of the best waterfront dining",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1158211406",
+            "baseUrl": "https://a0.muscache.com/im/pictures/d61ba21a-c728-4c47-badd-cf335ffc3256.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Ulele restaurant in Tampa- Fresh or grilled oysters  anyone?",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Ulele restaurant in Tampa- Fresh or grilled oysters  anyone?",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1158207949",
+            "baseUrl": "https://a0.muscache.com/im/pictures/9be707a7-e000-43ce-af11-a95827fa57d8.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Parkshore Restaurant - in downtown St Pete...fine casual dining with 5 star cuisine. Dine indoors or out. ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Parkshore Restaurant - in downtown St Pete...fine casual dining with 5 star cuisine. Dine indoors or out. ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180984353",
+            "baseUrl": "https://a0.muscache.com/im/pictures/e98afef1-f7bb-4017-89d7-17da0f430163.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "The Bodega at 1180 Central Ave St Pete serves (IMHO) the WORLD'S BEST CUBAN SANDWICH ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "The Bodega at 1180 Central Ave St Pete serves (IMHO) the WORLD'S BEST CUBAN SANDWICH ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1183755103",
+            "baseUrl": "https://a0.muscache.com/im/pictures/1335cf22-3fa0-43cf-ae75-d7965e6b6050.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Doc Ford's Rum Bar & Grille located at the St Pete Pier is a great waterfront dining spot with indoor and outdoor seating, live entertainment and delicious food!",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Doc Ford's Rum Bar & Grille located at the St Pete Pier is a great waterfront dining spot with indoor and outdoor seating, live entertainment and delicious food!",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180925266",
+            "baseUrl": "https://a0.muscache.com/im/pictures/167b822e-f218-4086-aaee-de8d3b24e57a.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Catch a game at Tropicana field",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Catch a game at Tropicana field",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180986342",
+            "baseUrl": "https://a0.muscache.com/im/pictures/b486e522-0570-434d-a9d5-b4c4a9f24051.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "View from inside THE DALI MUSEUM in St Pete",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "View from inside THE DALI MUSEUM in St Pete",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1158212453",
+            "baseUrl": "https://a0.muscache.com/im/pictures/25505f98-bcf4-48c1-8996-c1095bb112e8.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Dali Museum",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Dali Museum",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180966819",
+            "baseUrl": "https://a0.muscache.com/im/pictures/b6a79ca4-972c-43a3-8c67-b8550e7d285d.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Saturday Morning Market in St Pete is always a fun thing to do!",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Saturday Morning Market in St Pete is always a fun thing to do!",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180989965",
+            "baseUrl": "https://a0.muscache.com/im/pictures/e1e62eef-c6e7-4a0d-8fc6-41ce05ff4bf1.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "St Pete is home to the infamous DALE CHIHULY GLASS ART COLLECTION! 720 Central Ave",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "St Pete is home to the infamous DALE CHIHULY GLASS ART COLLECTION! 720 Central Ave",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1158206201",
+            "baseUrl": "https://a0.muscache.com/im/pictures/772c708d-52e0-4dc0-8349-abcb82f3f093.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Beach Drive in Downtown St Pete is always beautiful. Straub Park, on the waterfront in the background, is where lots of events happen.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Beach Drive in Downtown St Pete is always beautiful. Straub Park, on the waterfront in the background, is where lots of events happen.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1158213416",
+            "baseUrl": "https://a0.muscache.com/im/pictures/82b2110e-d8e3-4d2f-8ef8-9a0d93bc93bb.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Stroll the many shops and restaurants in gorgeous downtown St Pete ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Stroll the many shops and restaurants in gorgeous downtown St Pete ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180987847",
+            "baseUrl": "https://a0.muscache.com/im/pictures/ecbeabf3-b8bd-49a0-b231-3b5530a2be55.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "THE IMAGINE MUSEUM: Contemporary Glass Art is at 1901 Central Avenue in Saint Pete. Browse 3 amazing floors of glass art from today and yesterday ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "THE IMAGINE MUSEUM: Contemporary Glass Art is at 1901 Central Avenue in Saint Pete. Browse 3 amazing floors of glass art from today and yesterday ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180914093",
+            "baseUrl": "https://a0.muscache.com/im/pictures/6a1d8867-adf3-4af6-8e48-f7572258e621.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Visit St Pete Beach while you're here",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Visit St Pete Beach while you're here",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1269817280",
+            "baseUrl": "https://a0.muscache.com/im/pictures/e750ba36-ed4e-422a-8797-7177afbfa0e3.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Brand new shower with trendy, upscale wavy tile and magnetic, handheld showhead",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Brand new shower with trendy, upscale wavy tile and magnetic, handheld showhead",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1269817382",
+            "baseUrl": "https://a0.muscache.com/im/pictures/8cc4dcc4-7ca4-41e0-af2b-84051cdbcf93.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "The keyless entry is easy to use!! Once inside you'll find a snack station stocked with goodies...plus dinnerware, silverware, a coffee maker and microwave. There is also a mini fridge stocked with beverages",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "The keyless entry is easy to use!! Once inside you'll find a snack station stocked with goodies...plus dinnerware, silverware, a coffee maker and microwave. There is also a mini fridge stocked with beverages",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1180631937",
+            "baseUrl": "https://a0.muscache.com/im/pictures/9b28ca32-5655-4ccb-9572-f50aff11e837.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Your coffee/tea/snacks station complete with dinnerware, coffee maker and microwave ",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Your coffee/tea/snacks station complete with dinnerware, coffee maker and microwave ",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          }
+        ],
+        "roomTourLayoutInfos": [
+          {
+            "__typename": "MerlinRoomTourLayoutInfo",
+            "roomTourItems": [
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Full bathroom",
+                "highlights": null,
+                "imageIds": [
+                  "1180906255",
+                  "1180631004"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1180906255",
+                      "rightLandscapeId": "1180631004"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Bedroom",
+                "highlights": [
+                  {
+                    "__typename": "MerlinBasicListItem",
+                    "anchor": null,
+                    "icon": null,
+                    "image": null,
+                    "subtitle": null,
+                    "title": "Queen bed"
+                  }
+                ],
+                "imageIds": [
+                  "1269815954"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1269815954"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Exterior",
+                "highlights": null,
+                "imageIds": [
+                  "1180918206"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1180918206"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Additional photos",
+                "highlights": null,
+                "imageIds": [
+                  "1261024941",
+                  "1261024838",
+                  "1269817217",
+                  "1261024780",
+                  "1269817331",
+                  "1180892188",
+                  "1261024657",
+                  "1180909798",
+                  "1158206799",
+                  "1158210295",
+                  "1180925305",
+                  "1180928345",
+                  "1158207239",
+                  "1158218150",
+                  "1158214127",
+                  "1158211406",
+                  "1158207949",
+                  "1180984353",
+                  "1183755103",
+                  "1180925266",
+                  "1180986342",
+                  "1158212453",
+                  "1180966819",
+                  "1180989965",
+                  "1158206201",
+                  "1158213416",
+                  "1180987847",
+                  "1180914093",
+                  "1269817280",
+                  "1269817382",
+                  "1180631937"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1261024941"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1261024838",
+                      "rightLandscapeId": "1269817217"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1261024780"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1269817331",
+                      "rightLandscapeId": "1180892188"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1261024657"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1180909798",
+                      "rightLandscapeId": "1158206799"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1158210295"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1180925305",
+                      "rightLandscapeId": "1180928345"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1158207239"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1158218150",
+                      "rightLandscapeId": "1158214127"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1158211406"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1158207949",
+                      "rightLandscapeId": "1180984353"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1183755103"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1180925266",
+                      "rightLandscapeId": "1180986342"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1158212453"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1180966819",
+                      "rightLandscapeId": "1180989965"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1158206201"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1158213416",
+                      "rightLandscapeId": "1180987847"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1180914093"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1269817280",
+                      "rightLandscapeId": "1269817382"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1180631937"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "gridImageLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.gridImage",
+          "section": "photoTour",
+          "component": "gridImage",
+          "experiments": null
+        },
+        "carouselImageNavigationLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.carouselImageNavigation",
+          "section": "photoTour",
+          "component": "carouselImageNavigation",
+          "experiments": null
+        },
+        "saveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Save",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.save",
+            "section": "photoTour",
+            "component": "save",
+            "experiments": null
+          }
+        },
+        "unsaveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Saved",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.unsave",
+            "section": "photoTour",
+            "component": "unsave",
+            "experiments": null
+          }
+        },
+        "shareButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Share",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.share",
+            "section": "photoTour",
+            "component": "share",
+            "experiments": null
+          }
+        },
+        "closeButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Close",
+          "anchor": null,
+          "icon": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "component": "close",
+            "section": "photoTour",
+            "loggingId": "pdp.photoTour.close"
+          }
+        },
+        "seePhotosButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Show all photos",
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.seePhotos",
+            "section": "photoTour",
+            "component": "seePhotos",
+            "experiments": null
+          }
+        }
+      }
+    }
+  },
+  "extensions": {
+    "traceId": "Ahuehw-YZP8FOfqodQ5vvg=="
+  }
+}

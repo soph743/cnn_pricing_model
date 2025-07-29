@@ -1,0 +1,658 @@
+{
+  "data": {
+    "merlin": {
+      "__typename": "MerlinQuery",
+      "pdpPhotoTour": {
+        "__typename": "MerlinPdpPhotoTourResponse",
+        "roomsOverviewTitle": null,
+        "images": [
+          {
+            "__typename": "MerlinImage",
+            "id": "1840828258",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/a79bfaf7-1f12-4e71-a4a6-3eaf4d636e45.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor Mist 2024-1",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor Mist 2024-1",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1840828287",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/e0a3cd03-bae0-4a98-ab4c-e54410c1bfa3.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor Mist 2024-5",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor Mist 2024-5",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1840828285",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/48d0110c-198a-4558-b3b0-f6840b99fa63.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor Mist 2024-4",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor Mist 2024-4",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1840828280",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/00f30435-917a-47d6-b4a1-b4f338c5d002.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor Mist 2024-3",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor Mist 2024-3",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1840828274",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/9a5585b5-5ecd-45d5-b1d7-825419972f62.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor Mist 2024-8",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor Mist 2024-8",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1840828291",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/90219986-d74b-485b-99d1-510f1f9b3f3e.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor Mist 2024-7",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor Mist 2024-7",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1711237934",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/4e37a1d0-d9a1-4dd1-a175-eddf870f8416.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor speed test July 2021",
+            "displayAspectRatio": null,
+            "orientation": "PORTRAIT",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor speed test July 2021",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1711237976",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/daee5a39-bd73-4e69-8d27-d0933614d5c8.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "New deck 2022",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "New deck 2022",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1840828268",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/a7eac330-12fb-4c60-b613-cf0d9ee55e79.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor Mist 2024-6",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor Mist 2024-6",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1711237999",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/45b1fe57-0110-45af-b14a-7136976fb1d3.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Deck and synthetic turf in the backyard",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Deck and synthetic turf in the backyard",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1711237788",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/58b8d192-c9a1-453b-9b6e-119b44210f60.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Master bedroom",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Master bedroom",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1711237822",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/b95056f9-da1a-4236-9acd-6aac24456bde.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Queen bed in the master",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Queen bed in the master",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1711237841",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/5578b2e7-8533-4cf9-882e-2e088dbcbca2.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Second bedroom with double bed",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Second bedroom with double bed",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "2098799136",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/c8c48cd3-bb23-4f40-96d6-2a75b6aadf8b.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor kitchen sliding patio 2024",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor kitchen sliding patio 2024",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "2098799143",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/37b88b1e-503c-4052-b9f2-07e3e240cc08.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor kitchen view from sliding patio 2024",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor kitchen view from sliding patio 2024",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "2098799149",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/7bebbc11-f157-4a8a-8b83-f42e813bc4e5.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor kitchen dining 2024 no 1",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor kitchen dining 2024 no 1",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "2098799156",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/011b9628-f978-409c-903f-28d861a288fd.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor kitchen dining 2024 no 2",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor kitchen dining 2024 no 2",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "2098799158",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/279a5958-d7f3-457e-9405-f6943f77ee3f.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor kitchen living room 2024 no 3",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor kitchen living room 2024 no 3",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "2098799197",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/3ceb928c-0874-4677-a4c8-4ace9b6226c9.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor kitchen living room 2024 no 1",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor kitchen living room 2024 no 1",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "2098799221",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/061eaf6c-c75c-4a36-93e7-a5f2395100ad.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor kitchen living room 2024 no 2",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor kitchen living room 2024 no 2",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "2098799222",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/736909c0-4eb3-4763-9bee-e6606c3beba9.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor kitchen desk area 2024 no 2",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor kitchen desk area 2024 no 2",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "2098799226",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/dd3fc23a-d8a6-47c0-a823-bb179b24ade1.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor kitchen desk area 2024 no 1",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor kitchen desk area 2024 no 1",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "2151419097",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/b2709687-a9f1-4556-89b4-352a837f4b2b.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor front",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor front",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "2151419132",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/53720653-390f-4484-9b5d-f9f244be5d67.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor front",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor front",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "2151419147",
+            "baseUrl": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-425425/original/aebf0121-cf23-413e-9596-1864a9998e44.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Harbor front",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Harbor front",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          }
+        ],
+        "roomTourLayoutInfos": [
+          {
+            "__typename": "MerlinRoomTourLayoutInfo",
+            "roomTourItems": [
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": null,
+                "highlights": null,
+                "imageIds": [
+                  "1840828258",
+                  "1840828287",
+                  "1840828285",
+                  "1840828280",
+                  "1840828274",
+                  "1840828291",
+                  "1711237934",
+                  "1711237976",
+                  "1840828268",
+                  "1711237999",
+                  "1711237788",
+                  "1711237822",
+                  "1711237841",
+                  "2098799136",
+                  "2098799143",
+                  "2098799149",
+                  "2098799156",
+                  "2098799158",
+                  "2098799197",
+                  "2098799221",
+                  "2098799222",
+                  "2098799226",
+                  "2151419097",
+                  "2151419132",
+                  "2151419147"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1840828258"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1840828287",
+                      "rightLandscapeId": "1840828285"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1840828280"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1840828274",
+                      "rightLandscapeId": "1840828291"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_PORTRAIT_TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinOnePortraitTwoLandscapesMediaBlock",
+                      "lowerLandscapeId": "1840828268",
+                      "portraitId": "1711237934",
+                      "upperLandscapeId": "1711237976"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1711237999"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1711237788",
+                      "rightLandscapeId": "1711237822"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1711237841"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "2098799136",
+                      "rightLandscapeId": "2098799143"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "2098799149"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "2098799156",
+                      "rightLandscapeId": "2098799158"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "2098799197"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "2098799221",
+                      "rightLandscapeId": "2098799222"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "2098799226"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "2151419097",
+                      "rightLandscapeId": "2151419132"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "2151419147"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "gridImageLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.gridImage",
+          "section": "photoTour",
+          "component": "gridImage",
+          "experiments": null
+        },
+        "carouselImageNavigationLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.carouselImageNavigation",
+          "section": "photoTour",
+          "component": "carouselImageNavigation",
+          "experiments": null
+        },
+        "saveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Save",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.save",
+            "section": "photoTour",
+            "component": "save",
+            "experiments": null
+          }
+        },
+        "unsaveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Saved",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.unsave",
+            "section": "photoTour",
+            "component": "unsave",
+            "experiments": null
+          }
+        },
+        "shareButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Share",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.share",
+            "section": "photoTour",
+            "component": "share",
+            "experiments": null
+          }
+        },
+        "closeButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Close",
+          "anchor": null,
+          "icon": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "component": "close",
+            "section": "photoTour",
+            "loggingId": "pdp.photoTour.close"
+          }
+        },
+        "seePhotosButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Show all photos",
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.seePhotos",
+            "section": "photoTour",
+            "component": "seePhotos",
+            "experiments": null
+          }
+        }
+      }
+    }
+  },
+  "extensions": {
+    "traceId": "SVF9q2otXG1Q51Z0IkIAiA=="
+  }
+}

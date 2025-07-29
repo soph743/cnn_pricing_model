@@ -1,0 +1,933 @@
+{
+  "data": {
+    "merlin": {
+      "__typename": "MerlinQuery",
+      "pdpPhotoTour": {
+        "__typename": "MerlinPdpPhotoTourResponse",
+        "roomsOverviewTitle": "Property overview",
+        "images": [
+          {
+            "__typename": "MerlinImage",
+            "id": "1128755537",
+            "baseUrl": "https://a0.muscache.com/im/pictures/b3f70044-e77c-46a1-af5e-cf0d541d8666.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "We have wifi, Hulu, Netflix and Amazon Prime.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "We have wifi, Hulu, Netflix and Amazon Prime.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1128755447",
+            "baseUrl": "https://a0.muscache.com/im/pictures/c2474391-1b79-438f-8852-a11c08c00c97.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "The kitchen is fully stocked with all the cooking items plus a basic assortment of spices, and ready for you to whip up your favorite snack or meal.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "The kitchen is fully stocked with all the cooking items plus a basic assortment of spices, and ready for you to whip up your favorite snack or meal.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1373882386",
+            "baseUrl": "https://a0.muscache.com/im/pictures/f62dfe43-1b70-44de-be4a-5487b08049ab.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AZaYjujk5t3Y4EpSTDExMgFqa2I2MTby7u4KCggqLSwBlYt47e3zHgbluNcCBAsVAaufkvzy6PXq4rPG3N7q9dkkIW0/f9wMAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Full kitchen image 2",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1373880769",
+            "baseUrl": "https://a0.muscache.com/im/pictures/6cc4dbd6-59c7-4a2e-8727-7976b68ddef3.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AaSipO7j3AcABAYNDgsYGgGNjZDu3s8eEh0RGxMJEQwBl4h608zQMRcaEzk7DhUVAbysmwcD/AIDCPf29QoHBcD/FTPWlpcbAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Full kitchen image 3",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1373880591",
+            "baseUrl": "https://a0.muscache.com/im/pictures/17d3892c-f343-4085-8753-1562b59e4c5f.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AcnCu/v9/QD9/AoLDfTx7QGmop3i3N7e4eEA/v8qJigBn6CS0crUAP38DggIP09VAZqVjx8kJgsJCQL/AA0VF6NCHnuKMKtZAAAAAElFTkSuQmCC",
+            "accessibilityLabel": "Full kitchen image 4",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1373883306",
+            "baseUrl": "https://a0.muscache.com/im/pictures/d95aafb7-2d99-4057-b8fa-80535c15af58.jpg",
+            "previewEncodedPng": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AczJxO3u7v7/AAEBAgGoo5zJy9Dz9fZLSkgBYWFg6/r+7uLhIR0dAVJRT/77/FVKR+Pz+QGAeW7Jz9gKCAg+QEC98yKLf+HgTAAAAABJRU5ErkJggg==",
+            "accessibilityLabel": "Full kitchen image 5",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1128757173",
+            "baseUrl": "https://a0.muscache.com/im/pictures/31220083-7930-4d59-a5af-3dfb8d3bfb92.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "King bed with Tempur-Pedic hybrid gel memory foam mattress and silky soft 100% bamboo bed linens.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "King bed with Tempur-Pedic hybrid gel memory foam mattress and silky soft 100% bamboo bed linens.",
+              "imageType": "COVER",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1128757092",
+            "baseUrl": "https://a0.muscache.com/im/pictures/9a23835b-6a5e-495a-b940-78f9853f1508.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Queen bed with hybrid memory foam mattress and silky soft bamboo linens.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Queen bed with hybrid memory foam mattress and silky soft bamboo linens.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1839533632",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/88812ed5-e017-4a49-8684-9a7134d55d8b.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Bedroom 2 image 2",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1128757145",
+            "baseUrl": "https://a0.muscache.com/im/pictures/188f6e0f-3fe3-4dec-a30d-dde39af0194d.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Full bathroom image 1",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1839534965",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/9f801ca7-fc91-4064-b3b8-1b2d0e8b098b.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Dining area image 1",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1128756052",
+            "baseUrl": "https://a0.muscache.com/im/pictures/335671db-e81c-4a68-b107-ba10dfceb482.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Welcome home!",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Welcome home!",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1128752831",
+            "baseUrl": "https://a0.muscache.com/im/pictures/ce462de4-75e4-454c-9e41-a2911b7070d3.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Easy flight of steps lead to your rental unit.  Access to the steps is directly from the interior terrace.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Easy flight of steps lead to your rental unit.  Access to the steps is directly from the interior terrace.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1128755628",
+            "baseUrl": "https://a0.muscache.com/im/pictures/99aaf06b-0961-4cc7-a457-76a6e9d30397.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Park by this gate off of the alley, for easy access to the terrace and your rental unit.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Park by this gate off of the alley, for easy access to the terrace and your rental unit.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1242819700",
+            "baseUrl": "https://a0.muscache.com/im/pictures/7fc10f3f-468e-4918-bc7d-35ac657d6731.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Working while vacationing or vacationing while working? Whichever way it is, you'll have two folding desks you can set up wherever you work best.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Working while vacationing or vacationing while working? Whichever way it is, you'll have two folding desks you can set up wherever you work best.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1128762998",
+            "baseUrl": "https://a0.muscache.com/im/pictures/02fd35ed-b8a8-497e-983c-4a4a64240a84.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Patio image 1",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1839524843",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/e0ba778d-3ffb-46fe-97bb-896404e24848.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Set up a tropical lunch on the patio.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Set up a tropical lunch on the patio.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1331635723",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/80089444-3455-4349-a16a-1d0190f7e0e7.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Soak in the luxury hot tub. With a variety of jet arrangements, every seat provides a different experience, for a true hydrotherapy massage.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Soak in the luxury hot tub. With a variety of jet arrangements, every seat provides a different experience, for a true hydrotherapy massage.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1331658105",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/d77d2cfa-9d60-4592-952b-225dacc067a7.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Therapeutic hot tub spa has 4 unique seating spots each with specific features to help relax and melt tension in muscles away.  In addition,  there are seating areas between spots. Can fit 4 people comfortably,  possibly 5.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Therapeutic hot tub spa has 4 unique seating spots each with specific features to help relax and melt tension in muscles away.  In addition,  there are seating areas between spots. Can fit 4 people comfortably,  possibly 5.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1331591712",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/2afca86d-09ed-413e-85b5-624e54bac668.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Additional photos image 2",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1160663336",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/b06a9ade-b26e-4d97-b1b5-af3e96699697.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Additional photos image 3",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1160687354",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/a96b45cf-e0b0-4035-a488-3fb75a78b1ba.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Downtown St Pete, lots of walking and biking trails along Beach Drive and right next to Straub Park. Be sure to check out the New Pier for great food, beautiful and romantic scenery and excellent for photo shots!",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Downtown St Pete, lots of walking and biking trails along Beach Drive and right next to Straub Park. Be sure to check out the New Pier for great food, beautiful and romantic scenery and excellent for photo shots!",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1160687550",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/cfc2b0ac-8a0c-43de-9f23-d570656dc681.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Saint Pete Beach is only 13 min drive away",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Saint Pete Beach is only 13 min drive away",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1160687777",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/74a90793-1c7c-41a4-92ac-7301a40d56a4.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Excellent places to eat and shop at Johns Pass. There's also a family fun gator/wildlife center & check out the water toy rentals- Jet ski, kayaks, paddleboards, also dolphin cruises, dinner and drink cruises, and more! Only 18-25 min drive away.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Excellent places to eat and shop at Johns Pass. There's also a family fun gator/wildlife center & check out the water toy rentals- Jet ski, kayaks, paddleboards, also dolphin cruises, dinner and drink cruises, and more! Only 18-25 min drive away.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1160687700",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/16ae644b-95bd-42a6-a3d0-f2841aa3eab0.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Excellent places to eat and shop in Madeira Beach at Johns Pass. There's also a family fun gator/wildlife center & check out the water toy rentals: Jet ski, kayaks, paddleboards. Go for a dolphin cruise, a pirate ship cruise or a dinner cruise!",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Excellent places to eat and shop in Madeira Beach at Johns Pass. There's also a family fun gator/wildlife center & check out the water toy rentals: Jet ski, kayaks, paddleboards. Go for a dolphin cruise, a pirate ship cruise or a dinner cruise!",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1160687376",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/295025fd-109f-402b-a7ee-5834c91df9ac.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Dolphin Cruise",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Dolphin Cruise",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1160687418",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/0e149c08-76ed-4738-8761-438daeff9825.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Downtown Saint Petersburg, lots of restaurants, shopping, live music, art, and always lots of events happening. Is one exit away from us, only 4-5 min drive!",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Downtown Saint Petersburg, lots of restaurants, shopping, live music, art, and always lots of events happening. Is one exit away from us, only 4-5 min drive!",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1160687501",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/14794578-6aaa-4ac5-aadd-ba4b12e45d3f.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "The Famous Dali Museum right downtown less than 9 min away, always fascinating exhibits and traveling exhibits- like the Leonardo Divinci inventor collection, and the Van Gogh exhibits.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "The Famous Dali Museum right downtown less than 9 min away, always fascinating exhibits and traveling exhibits- like the Leonardo Divinci inventor collection, and the Van Gogh exhibits.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1160687457",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/0a1739e2-084b-485b-9fe2-73ac0cadb8f8.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Gorgeous historic Sunken Gardens botanical gardens! Lots of places to explore make you feel lost in the tropics, and there are baby Flamingos too! Only 3-4 min drive away.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Gorgeous historic Sunken Gardens botanical gardens! Lots of places to explore make you feel lost in the tropics, and there are baby Flamingos too! Only 3-4 min drive away.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1160687722",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/9f269b83-8952-4c11-8c6d-15a9c8d05461.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "Get on a Pirate ship for a fun party tour right at Johns Pass- about 18-25 min drive away.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "Get on a Pirate ship for a fun party tour right at Johns Pass- about 18-25 min drive away.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1160687280",
+            "baseUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-47991345/original/e527fdea-d8dc-4f28-af9b-40058576cef8.jpeg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "The historic Don Cesar Hotel looks like a huge pink palace on St Pete Beach.  It's only 15 minutes away, with great restaurants, an old-fashioned ice cr am shop, poolside bar at a beach side place with a fascinating story and star-studded history!",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "The historic Don Cesar Hotel looks like a huge pink palace on St Pete Beach.  It's only 15 minutes away, with great restaurants, an old-fashioned ice cr am shop, poolside bar at a beach side place with a fascinating story and star-studded history!",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          },
+          {
+            "__typename": "MerlinImage",
+            "id": "1385525874",
+            "baseUrl": "https://a0.muscache.com/im/pictures/7b99f4cc-7c81-4c51-977f-370b846c3ae8.jpg",
+            "previewEncodedPng": "",
+            "accessibilityLabel": "A 5th guest will snooze comfortably on this 78\"x36\"x6\" gel memory foam trifold floor mattress. These sell on Amazon for $170. When it's not in use, it doubles as extra seating or a convenient ottoman. We have bamboo sheets for this as well.",
+            "displayAspectRatio": null,
+            "orientation": "LANDSCAPE",
+            "imageMetadata": {
+              "__typename": "MerlinImageMetadata",
+              "caption": "A 5th guest will snooze comfortably on this 78\"x36\"x6\" gel memory foam trifold floor mattress. These sell on Amazon for $170. When it's not in use, it doubles as extra seating or a convenient ottoman. We have bamboo sheets for this as well.",
+              "imageType": "DETAIL",
+              "isProfessional": false
+            }
+          }
+        ],
+        "roomTourLayoutInfos": [
+          {
+            "__typename": "MerlinRoomTourLayoutInfo",
+            "roomTourItems": [
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Living room",
+                "highlights": null,
+                "imageIds": [
+                  "1128755537"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1128755537"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Full kitchen",
+                "highlights": null,
+                "imageIds": [
+                  "1128755447",
+                  "1373882386",
+                  "1373880769",
+                  "1373880591",
+                  "1373883306"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1128755447"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1373882386",
+                      "rightLandscapeId": "1373880769"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1373880591",
+                      "rightLandscapeId": "1373883306"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Bedroom 1",
+                "highlights": [
+                  {
+                    "__typename": "MerlinBasicListItem",
+                    "anchor": null,
+                    "icon": null,
+                    "image": null,
+                    "subtitle": null,
+                    "title": "King bed"
+                  }
+                ],
+                "imageIds": [
+                  "1128757173"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1128757173"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Bedroom 2",
+                "highlights": [
+                  {
+                    "__typename": "MerlinBasicListItem",
+                    "anchor": null,
+                    "icon": null,
+                    "image": null,
+                    "subtitle": null,
+                    "title": "Queen bed"
+                  }
+                ],
+                "imageIds": [
+                  "1128757092",
+                  "1839533632"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1128757092",
+                      "rightLandscapeId": "1839533632"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Full bathroom",
+                "highlights": null,
+                "imageIds": [
+                  "1128757145"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1128757145"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Dining area",
+                "highlights": null,
+                "imageIds": [
+                  "1839534965"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1839534965"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Exterior",
+                "highlights": null,
+                "imageIds": [
+                  "1128756052",
+                  "1128752831",
+                  "1128755628"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1128756052"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1128752831",
+                      "rightLandscapeId": "1128755628"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Workspace",
+                "highlights": null,
+                "imageIds": [
+                  "1242819700"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1242819700"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Patio",
+                "highlights": null,
+                "imageIds": [
+                  "1128762998",
+                  "1839524843"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1128762998",
+                      "rightLandscapeId": "1839524843"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Backyard",
+                "highlights": null,
+                "imageIds": [
+                  "1331635723"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1331635723"
+                    }
+                  }
+                ]
+              },
+              {
+                "__typename": "MerlinRoomTourItem",
+                "title": "Additional photos",
+                "highlights": null,
+                "imageIds": [
+                  "1331658105",
+                  "1331591712",
+                  "1160663336",
+                  "1160687354",
+                  "1160687550",
+                  "1160687777",
+                  "1160687700",
+                  "1160687376",
+                  "1160687418",
+                  "1160687501",
+                  "1160687457",
+                  "1160687722",
+                  "1160687280",
+                  "1385525874"
+                ],
+                "mediaBlocks": [
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1331658105"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1331591712",
+                      "rightLandscapeId": "1160663336"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1160687354"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1160687550",
+                      "rightLandscapeId": "1160687777"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1160687700"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1160687376",
+                      "rightLandscapeId": "1160687418"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "ONE_LANDSCAPE",
+                    "mediaBlock": {
+                      "__typename": "MerlinOneLandscapeMediaBlock",
+                      "landscapeId": "1160687501"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1160687457",
+                      "rightLandscapeId": "1160687722"
+                    }
+                  },
+                  {
+                    "__typename": "MerlinMediaBlockContainer",
+                    "flip": "DEFAULT",
+                    "format": "TWO_LANDSCAPES",
+                    "mediaBlock": {
+                      "__typename": "MerlinTwoLandscapesMediaBlock",
+                      "leftLandscapeId": "1160687280",
+                      "rightLandscapeId": "1385525874"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "gridImageLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.gridImage",
+          "section": "photoTour",
+          "component": "gridImage",
+          "experiments": null
+        },
+        "carouselImageNavigationLoggingEventData": {
+          "__typename": "MerlinLoggingEventData",
+          "loggingId": "pdp.photoTour.carouselImageNavigation",
+          "section": "photoTour",
+          "component": "carouselImageNavigation",
+          "experiments": null
+        },
+        "saveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Save",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.save",
+            "section": "photoTour",
+            "component": "save",
+            "experiments": null
+          }
+        },
+        "unsaveButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Saved",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.unsave",
+            "section": "photoTour",
+            "component": "unsave",
+            "experiments": null
+          }
+        },
+        "shareButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Share",
+          "subtitle": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.share",
+            "section": "photoTour",
+            "component": "share",
+            "experiments": null
+          }
+        },
+        "closeButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Close",
+          "anchor": null,
+          "icon": null,
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "component": "close",
+            "section": "photoTour",
+            "loggingId": "pdp.photoTour.close"
+          }
+        },
+        "seePhotosButton": {
+          "__typename": "MerlinBasicListItem",
+          "title": "Show all photos",
+          "loggingEventData": {
+            "__typename": "MerlinLoggingEventData",
+            "loggingId": "pdp.photoTour.seePhotos",
+            "section": "photoTour",
+            "component": "seePhotos",
+            "experiments": null
+          }
+        }
+      }
+    }
+  },
+  "extensions": {
+    "traceId": "OEPMwDBQu2Z7vKOMPkmFxQ=="
+  }
+}
