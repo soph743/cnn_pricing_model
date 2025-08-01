@@ -71,7 +71,8 @@ Create a fast and accessible prediction workflow through the browser
 For questions or collaboration inquiries:
 Sophia Cherkaoui
 📧 [sophia.cherkaoui001@umb.edu]
-
+Sonia Broni
+📧 [sonia.broni@tufts.edu]
 
 external links
 
